@@ -9,6 +9,12 @@ demoURL: "https://www.airbound.co/"
 
 ![Airbound Website Preview](https://images.prismic.io/designhawk/ZozWSx5LeNNTw61I_Slide16_9-6.png?auto=format,compress)
 
+## Project Brief
+
+| Role | Team Size | Platform | Tools | Duration |
+|:-----|:----------|:---------|:------|:---------|
+| Product Designer & Dev. | 2 PD | Webflow | Figma, Notion | 6 weeks |
+
 ## Challenge
 
 Create a professional website for Airbound, a drone technology startup, that effectively communicates their innovative approach to logistics and attracts diverse stakeholders, including investors and potential employees.
@@ -27,9 +33,9 @@ Prior to this project, Airbound lacked a comprehensive web presence, limiting th
 
 1. **Discovery Phase**
    - Analyzed Airbound's vision and value proposition
-   - Understood the company's journey and culture
+   - Understood the company's journey
    - Identified key product specifications and technological advantages
-   - Defined primary user groups and their motivations
+   - Defined primary user groups
 
 2. **Brand and Visual Style Development**
    - Leveraged existing brand guidelines
@@ -42,7 +48,7 @@ Prior to this project, Airbound lacked a comprehensive web presence, limiting th
 
 4. **Design and Prototyping**
    - Created wireframes and high-fidelity mockups
-   - Developed interactive prototypes for user testing
+   - Developed interactive prototypes
 
 5. **Development and Launch**
    - Built the website using Webflow
@@ -81,17 +87,9 @@ Prior to this project, Airbound lacked a comprehensive web presence, limiting th
 
 ### Final Result Showcase
 
-<figure>
-  <img src="https://images.prismic.io/designhawk/ZoZSjB5LeNNTwx8n_L4.png?auto=format,compress">
-  <figcaption>Final Result Showcase</figcaption>
-</figure>
+![Airbound Mobile Website Preview](https://images.prismic.io/designhawk/ZpDTxh5LeNNTxFm3_A1.png?auto=format,compress)
 
-## Impact
-
-- **Traffic Increase:** 200% increase in website traffic within the first month of launch
-- **Engagement:** Average time on site increased from 1 minute to 3.5 minutes
-- **Recruitment:** 50% increase in quality job applications
-- **Investor Interest:** Facilitated 5 new investor meetings within two weeks of launch
+![Airbound Mobile Website Preview](https://images.prismic.io/designhawk/ZpDTxR5LeNNTxFm2_A2.png?auto=format,compress)
 
 ## Learnings
 
@@ -99,11 +97,9 @@ Prior to this project, Airbound lacked a comprehensive web presence, limiting th
 
 2. **Importance of Brand Personality:** Infusing Airbound's "crazy" and revolutionary approach into the design was crucial for differentiating them in the market.
 
-3. **Stakeholder-Centric Design:** Creating distinct user journeys for investors, potential employees, and customers ensured that each group could quickly find relevant information.
+3. **Visual Storytelling:** Using a combination of infographics, animations, and video content proved highly effective in explaining Airbound's technology and mission.
 
-4. **Visual Storytelling:** Using a combination of infographics, animations, and video content proved highly effective in explaining Airbound's technology and mission.
-
-5. **Flexibility in Design Process:** Regular check-ins and iterations with the Airbound team allowed for agile adjustments, ensuring the final product aligned closely with their vision and goals.
+4. **Flexibility in Design Process:** Regular check-ins and iterations with the Airbound team allowed for agile adjustments, ensuring the final product aligned closely with their vision and goals.
 
 
 

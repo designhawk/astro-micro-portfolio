@@ -27,8 +27,8 @@ In today's interconnected world, founders from around the globe are exploring ne
 To support these founders in making a remarkable impact within their sectors, Lightspeed is launching Limitless. Limitless is designed as a hub for founders with aspirations of building global giants, creating new opportunities, and continuously innovating for their customers.
 
 <figure>
-  <img src="https://dummyimage.com/800x400/3498db/ffffff&text=Lightspeed+Global+Reach" alt="Lightspeed Global Reach">
-  <figcaption>Visualization of Lightspeed's global reach and impact</figcaption>
+  <img src="https://lsvp.com/wp-content/uploads/2023/07/lightspeedlaunch.png" alt="Lightspeed Global Reach">
+  <figcaption>Lightspeed's global reach and impact</figcaption>
 </figure>
 
 ## Challenge
@@ -129,15 +129,10 @@ The previous website had several issues:
 
 ## Challenges and Solutions
 
-1. **Challenge: Balancing Information Density**
+**Challenge: Balancing Information Density**
    - Problem: The old site was overwhelming users with too much information on each page
    - Solution: Implemented a "progressive disclosure" approach, where key information is presented upfront with options to dive deeper
    - Result: Users reported feeling less overwhelmed and more likely to engage with content
-
-2. **Challenge: Mobile Responsiveness**
-   - Problem: The existing site wasn't optimized for mobile, leading to poor experiences for on-the-go users
-   - Solution: Adopted a mobile-first design approach, ensuring all features worked seamlessly on smaller screens
-   - Result: Mobile engagement increased by 35% post-redesign
 
 <figure>
   <img src="https://dummyimage.com/800x400/8e44ad/ffffff&text=Mobile+Responsiveness" alt="Mobile Responsiveness">
@@ -150,7 +145,7 @@ The previous website had several issues:
 - Before: Cluttered layout with small text and numerous competing call-to-action buttons
 - After: Clean, spacious design with a clear hierarchy, featuring an animated hero section and streamlined navigation
 
-### Resource Page:
+### Blog Page:
 - Before: Long list of articles without categorization, difficult to find relevant content
 - After: Grid layout with visual previews, tag-based filtering, and a search function for easy content discovery
 
@@ -159,62 +154,16 @@ The previous website had several issues:
   <figcaption>Side-by-side comparison of homepage and resource page before and after redesign</figcaption>
 </figure>
 
-## Project Timeline
-
-| Week | Focus | Activities |
-|:-----|:------|:-----------|
-| 1 | Research and Analysis | - Stakeholder interviews and data analysis<br>- User research and persona development<br>- Present findings and get approval on direction |
-| 2 | Design Exploration | - Wireframing and low-fidelity prototypes<br>- Internal reviews and iterations |
-| 3 | High-Fidelity Design and Prototyping | - Develop high-fidelity mockups<br>- Create interactive prototypes and conduct user testing |
-| 4 | Refinement and Handoff | - Incorporate user feedback and finalize designs<br>- Prepare design specifications and assets for development<br>- Final presentation and handoff to development team |
-
-## Team Dynamics
-
-Our small team of three leveraged agile methodologies to maintain efficiency:
-
-- Daily stand-ups to align on progress and address blockers
-- The Product Designer (PD) led the UX research and overall strategy
-- The Graphic Designer (GD) focused on visual design and branding consistency
-- The Developer provided ongoing technical feasibility input and began backend preparations in parallel with design work
-
-This lean approach allowed for rapid iteration and close collaboration, with each team member wearing multiple hats as needed.
-
-<figure>
-  <img src="https://dummyimage.com/800x400/16a085/ffffff&text=Team+Collaboration" alt="Team Collaboration">
-  <figcaption>Team collaborating during a design sprint session</figcaption>
-</figure>
-
 ## Impact
 
 - **Higher Conversion Rates**: Conversion rates for newsletter sign-ups and content downloads improved by 20%.
 - **Positive Feedback**: Users provided excellent feedback, praising the site's modern design, intuitive navigation, and enhanced content accessibility.
-
-<figure>
-  <img src="https://dummyimage.com/800x400/2980b9/ffffff&text=Impact+Metrics" alt="Impact Metrics">
-  <figcaption>Graph showing improvement in key metrics after redesign</figcaption>
-</figure>
 
 ## Learnings
 
 1. **User-Centric Design**: Prioritizing user needs and feedback is crucial for a successful redesign, leading to higher engagement and satisfaction.
 2. **Continuous Testing**: Regularly testing and iterating significantly enhanced the final product, ensuring it met user expectations.
 3. **Collaboration**: Effective teamwork and communication are key to overcoming challenges and achieving project goals, resulting in a cohesive and well-executed redesign.
-
-## Future Considerations
-
-While the redesign significantly improved the Limitless platform, we've identified areas for future enhancement:
-
-1. Personalization: Implement AI-driven content recommendations based on user behavior and preferences
-2. Community Features: Develop a forum or networking tool for founders to connect and share experiences
-3. Interactive Data Visualizations: Create dynamic charts and graphs to showcase Lightspeed's impact and industry trends
-4. Multilingual Support: Expand the site's reach by offering content in multiple languages, reflecting Lightspeed's global focus
-
-These future improvements will help ensure that Limitless continues to evolve and meet the changing needs of its user base.
-
-<figure>
-  <img src="https://dummyimage.com/800x400/c0392b/ffffff&text=Future+Roadmap" alt="Future Roadmap">
-  <figcaption>Visual roadmap of future enhancements for the Limitless platform</figcaption>
-</figure>
 
 <figure>
   <img src="https://images.prismic.io/designhawk/ZoZSjB5LeNNTwx8n_L4.png?auto=format,compress" alt="Final Result Showcase">
