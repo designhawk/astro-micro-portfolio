@@ -99,4 +99,4 @@ For a comprehensive guide, check out the [Aurora Marketplaces Satellite Imagery 
   Your browser does not support the video tag.
 </video>
 
-For more information, visit [Pixxel's Blog](https://www.pixxel.space/blogs).
+For more information, visit [Pixxel's blog](https://www.pixxel.space/blogs).

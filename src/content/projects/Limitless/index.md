@@ -145,7 +145,7 @@ The previous website had several issues:
 - Before: Cluttered layout with small text and numerous competing call-to-action buttons
 - After: Clean, spacious design with a clear hierarchy, featuring an animated hero section and streamlined navigation
 
-### Blog Page:
+### blog Page:
 - Before: Long list of articles without categorization, difficult to find relevant content
 - After: Grid layout with visual previews, tag-based filtering, and a search function for easy content discovery
 

@@ -13,8 +13,8 @@ export const HOME: Metadata = {
   DESCRIPTION: "Explore Aditya's portfolio, showcasing innovative product design and impactful projects. Discover his journey in creating seamless and engaging user experiences",
 };
 
-export const BLOG: Metadata = {
-  TITLE: "Blog",
+export const blog: Metadata = {
+  TITLE: "blog",
   DESCRIPTION: "A collection of articles on topics I am passionate about.",
 };
 
