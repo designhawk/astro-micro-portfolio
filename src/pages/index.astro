@@ -22,6 +22,14 @@ const projects: CollectionEntry<"projects">[] = (
 
 <Layout title={HOME.TITLE} description={HOME.DESCRIPTION}>
   <Container>
+    <div style="width: 392px; max-width: 30%; margin-bottom: 20px;">
+      <img
+        src="https://media4.giphy.com/media/GjLuAGAoazPSgg25NI/giphy.gif"
+        alt="Giphy Animation"
+        style="width: 100%; height: auto; border-radius: 4px;"
+      />
+    </div>
+
     <h1 class="animate font-semibold text-black dark:text-white">
       Hi, I'm Aditya 👋
     </h1>
@@ -30,10 +38,18 @@ const projects: CollectionEntry<"projects">[] = (
         <article class="space-y-4">
           <span class="animate">
             <p>
-              Crafting intuitive & visually stunning user experiences. Passionate about detail, usability, and seamless interactions. Continuously exploring innovative design and cutting-edge technology.
+              Crafting intuitive & visually stunning user experiences.
+              Passionate about detail, usability, and seamless interactions.
+              Continuously exploring innovative design and cutting-edge
+              technology.
             </p>
             <p>
-              Based in <Link href="https://www.google.com/maps/place/Ahmedabad,+Gujarat/@23.0203801,72.4973427,12z/data=!3m1!4b1!4m6!3m5!1s0x395e848aba5bd449:0x4fcedd11614f6516!8m2!3d23.022505!4d72.5713621!16zL20vMDFkODhj?entry=ttu">Ahmedabad, India</Link>, I have been working as a UI/UX Designer at <Link href="https://www.studiocarbon.in/">Studio Carbon</Link>.
+              Based in <Link
+                href="https://www.google.com/maps/place/Ahmedabad,+Gujarat/@23.0203801,72.4973427,12z/data=!3m1!4b1!4m6!3m5!1s0x395e848aba5bd449:0x4fcedd11614f6516!8m2!3d23.022505!4d72.5713621!16zL20vMDFkODhj?entry=ttu"
+                >Ahmedabad, India</Link
+              >, I have been working as a UI/UX Designer at <Link
+                href="https://www.studiocarbon.in/">Studio Carbon</Link
+              >.
             </p>
           </span>
         </article>
@@ -59,7 +75,9 @@ const projects: CollectionEntry<"projects">[] = (
 
       <section class="animate space-y-6">
         <div class="flex flex-wrap items-center justify-between gap-y-2">
-          <h2 class="font-semibold text-black dark:text-white">Creative explorations</h2>
+          <h2 class="font-semibold text-black dark:text-white">
+            Creative explorations
+          </h2>
           <Link href="/blog"> See all posts </Link>
         </div>
         <ul class="not-prose flex flex-col gap-4">
