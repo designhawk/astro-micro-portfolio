@@ -2,7 +2,7 @@
 title: "Limitless by Lightspeed"
 description: "A comprehensive case study of the Limitless Builders website redesign project"
 date: "2024-03-26"
-demoURL: "https://astro-nano-demo.vercel.app"
+demoURL: "https://www.limitless.builders/"
 ---
 
 ---
