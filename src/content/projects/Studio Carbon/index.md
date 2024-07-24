@@ -26,6 +26,8 @@ Studio Carbon is a multidisciplinary design studio based in India, specializing 
 
 The website design project aimed to create a digital portfolio that not only showcased Studio Carbon's impressive body of work but also communicated their design philosophy and approach to potential clients.
 
+I joined at the time we had 
+
 <figure>
   <img src="https://dummyimage.com/800x400/34495e/ffffff&text=Studio+Carbon+Work+Showcase" alt="Studio Carbon Work Showcase">
   <figcaption>A collection of Studio Carbon's diverse design projects across various mediums</figcaption>
@@ -53,10 +55,9 @@ The previous website had several issues:
 
 ### 1. Research and Analysis
 
-- Conducted interviews with Studio Carbon team members to understand their vision and goals.
 - Analyzed 10 competitor websites to identify industry trends and opportunities for differentiation.
-- Created user personas representing key client segments: Brand Managers, Startup Founders, and Creative Directors.
-- Developed user journey maps to identify key touchpoints and areas for improvement in the client acquisition process.
+- Reasearched about diffrent standards of CDN used by Wolfolines and Pentagram. 
+- This was aslo a migration from wix to Webflow for better website handling and process to update.
 
 <figure>
   <img src="https://dummyimage.com/800x400/27ae60/ffffff&text=User+Persona+and+Journey+Map" alt="User Persona and Journey Map">
@@ -66,9 +67,8 @@ The previous website had several issues:
 ### 2. Design and Prototyping
 
 - Developed a new visual language that reflected Studio Carbon's minimalist yet impactful design aesthetic.
-- Created wireframes for key pages, focusing on optimal presentation of portfolio items.
 - Designed high-fidelity mockups incorporating Studio Carbon's brand colors, typography, and visual elements.
-- Built interactive prototypes to test user flows and gather feedback from the Studio Carbon team and select clients.
+- Built interactive prototypes to test user flows and gather feedback from the team.
 
 <figure>
   <img src="https://dummyimage.com/800x400/f39c12/ffffff&text=Design+Mockups" alt="Design Mockups">
