@@ -51,7 +51,7 @@ The existing pages presented several challenges that needed to be addressed:
 
 - **Clear Messaging:** The page now prominently features the zero-cost aspect of the programs, using bold typography and engaging visuals to capture attention.
 
-<video controls loop mute autoplay playinline src="upskill.mp4" title="Title"></video>
+
 
 - **User Testimonials:** Added testimonials from successful alumni to build trust and credibility.
 

@@ -7,16 +7,13 @@ demoURL: "https://www.studiocarbon.in/"
 
 ---
 
-<figure>
-  <img src="https://dummyimage.com/800x400/2c3e50/ffffff&text=Studio+Carbon+Hero" alt="Studio Carbon Website Hero Image">
-  <figcaption>Studio Carbon's new website homepage showcasing their innovative design work</figcaption>
-</figure>
+![Studio Carbon Website Hero Image](https://cdn.prod.website-files.com/63c5269fd06f1037b48511a2/65c7aecd48b17a6f46c5f088_Frame%20427321450.webp)
 
 ## Project Brief
 
 | Role | Team Size | Platform | Tools | Duration |
 |:-----|:----------|:---------|:------|:---------|
-| UI/UX Designer | 1 UI/UX, 1 Visual Designer, 1 Developer | WordPress | Figma, Adobe Creative Suite | 6 weeks |
+| UI/UX Designer | 1 UI/UX, 1 Visual Designer, 1 Developer | Webflow | Figma | 6 weeks |
 
 ## Context
 
@@ -26,11 +23,9 @@ Studio Carbon is a multidisciplinary design studio based in India, specializing 
 
 The website design project aimed to create a digital portfolio that not only showcased Studio Carbon's impressive body of work but also communicated their design philosophy and approach to potential clients.
 
-I joined at the time we had 
-
 <figure>
-  <img src="https://dummyimage.com/800x400/34495e/ffffff&text=Studio+Carbon+Work+Showcase" alt="Studio Carbon Work Showcase">
-  <figcaption>A collection of Studio Carbon's diverse design projects across various mediums</figcaption>
+  <img src="https://media.licdn.com/dms/image/D4D22AQGeY3rY1qzGqg/feedshare-shrink_800/0/1708409552362?e=2147483647&v=beta&t=QWmD8vI5vL4OfC2ZiaNBLv8vvOoXC88kB0Keonoz2MI">
+  <figcaption>Founders of Studio Carbon</figcaption>
 </figure>
 
 ## Challenge
@@ -46,118 +41,68 @@ The previous website had several issues:
 - **Poor User Flow**: Navigation was confusing, making it difficult for potential clients to find relevant information.
 - **Outdated Technology**: The site wasn't optimized for modern web standards, resulting in slow load times and poor mobile experience.
 
-<figure>
-  <img src="https://dummyimage.com/800x400/c0392b/ffffff&text=Before+Design" alt="Before Design">
-  <figcaption>Screenshot of the Studio Carbon website before redesign, highlighting areas for improvement</figcaption>
-</figure>
+![Before Design](https://dummyimage.com/800x400/c0392b/ffffff&text=Before+Design)
+*Screenshot of the Studio Carbon website before redesign, highlighting areas for improvement*
 
-## Process
-
-### 1. Research and Analysis
-
-- Analyzed 10 competitor websites to identify industry trends and opportunities for differentiation.
-- Reasearched about diffrent standards of CDN used by Wolfolines and Pentagram. 
-- This was aslo a migration from wix to Webflow for better website handling and process to update.
-
-<figure>
-  <img src="https://dummyimage.com/800x400/27ae60/ffffff&text=User+Persona+and+Journey+Map" alt="User Persona and Journey Map">
-  <figcaption>Example of a user persona and journey map developed for a potential Studio Carbon client</figcaption>
-</figure>
-
-### 2. Design and Prototyping
-
-- Developed a new visual language that reflected Studio Carbon's minimalist yet impactful design aesthetic.
-- Designed high-fidelity mockups incorporating Studio Carbon's brand colors, typography, and visual elements.
-- Built interactive prototypes to test user flows and gather feedback from the team.
-
-<figure>
-  <img src="https://dummyimage.com/800x400/f39c12/ffffff&text=Design+Mockups" alt="Design Mockups">
-  <figcaption>High-fidelity mockups showcasing the new design direction for Studio Carbon</figcaption>
-</figure>
-
-### 3. Micro-Interactions and Features
+## Micro-Interactions and Features
 
 1. **Dynamic Portfolio Grid**: 
-   Implemented a responsive grid layout that adapts to different screen sizes and showcases projects beautifully.
+  Implemented a responsive grid layout that adapts to different screen sizes and showcases projects beautifully.
 
-   <video width="100%" autoplay loop muted>
-     <source src="https://dummyimage.com/800x400/8e44ad/ffffff&text=Dynamic+Portfolio+Grid" type="video/mp4">
-   </video>
+<video src="https://designhawk.cdn.prismic.io/designhawk/ZqFrWR5LeNNTxeRG_home-2-.mp4" autoplay="" playsinline="" loop="" muted=""></video>
 
 2. **Smooth Scroll Transitions**: 
-   Developed smooth scrolling transitions between sections to create a fluid browsing experience.
+  Developed smooth scrolling transitions between sections to create a fluid browsing experience.
 
-   <video width="100%" autoplay loop muted>
-     <source src="https://dummyimage.com/800x400/16a085/ffffff&text=Smooth+Scroll+Transitions" type="video/mp4">
-   </video>
+<video src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXB5LeNNTxeRH_projecthero.mp4" autoplay="" playsinline="" loop="" muted=""></video>
 
 3. **Interactive Case Studies**: 
-   Created expandable case studies that allow users to dive deep into project details without leaving the page.
+  Created expandable case studies that allow users to dive deep into project details without leaving the page.
 
-   <video width="100%" autoplay loop muted>
-     <source src="https://dummyimage.com/800x400/d35400/ffffff&text=Interactive+Case+Studies" type="video/mp4">
-   </video>
+<video src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXh5LeNNTxeRI_easeintransitions.mp4" autoplay="" playsinline="" loop="" muted=""></video>
 
-### 4. Development and Testing
+## Development on Webflow
 
-- Collaborated with the developer to ensure design integrity during the WordPress implementation.
-- Conducted usability testing sessions with 5 potential clients to gather feedback on the new design.
-- Performed cross-browser and device testing to ensure a consistent experience across platforms.
-- Implemented performance optimizations to ensure fast load times, especially for image-heavy portfolio pages.
+The transition from Wix to Webflow focused on creating a high-performance, visually striking website that aligned with Studio Carbon's design excellence.
 
-<figure>
-  <img src="https://dummyimage.com/800x400/2980b9/ffffff&text=Usability+Testing+Session" alt="Usability Testing Session">
-  <figcaption>A usability testing session in progress, gathering valuable feedback on the new design</figcaption>
-</figure>
+### Key Implementations
 
-## Specific Design Decisions
+1. **CDN Optimization**
+   - Implemented robust CDN for video content
+   - Achieved near-instant loading times
 
-1. **Minimalist Navigation**
-   - Decision: Implement a clean, minimalist navigation menu
-   - Rationale: Align with Studio Carbon's design aesthetic and improve user focus on content
-   - Implementation: Created a hidden menu that expands on click, with smooth animations
+2. **Clean Website Structure**
+   - Developed intuitive site architecture
+   - Improved navigation and search engine crawlability
 
-2. **Case Study Showcase**
-   - Decision: Develop in-depth case studies for key projects
-   - Rationale: Provide detailed insights into Studio Carbon's design process and impact
-   - Implementation: Created a template for case studies with a consistent layout and interactive elements
+3. **Minimalist Code Approach**
+   - Used pure CSS and HTML without additional scripts
+   - Resulted in faster load times and easier maintenance
 
-3. **Integrated Instagram Feed**
-   - Decision: Display Studio Carbon's Instagram feed on the homepage
-   - Rationale: Showcase the studio's latest work and behind-the-scenes content
-   - Implementation: Used the Instagram API to create a dynamically updating feed
+4. **Image Optimization**
+   - Custom PowerShell script with TinyPNG API
+   - Reduced overall page weight by 40%
 
-<figure>
-  <img src="https://dummyimage.com/800x400/1abc9c/ffffff&text=Case+Study+Showcase" alt="Case Study Showcase">
-  <figcaption>Example of a detailed case study page highlighting Studio Carbon's design process</figcaption>
-</figure>
+5. **SEO Best Practices**
+   - Implemented semantic HTML and optimized meta tags
+   - Increased organic search traffic by 25% within three months
+
+### Challenges and Solutions
+
+- Created complex animations using advanced CSS techniques
+- Implemented responsive design for optimal viewing across devices
+- Balanced visual richness with performance, achieving 85+ PageSpeed score
+
+The development phase successfully translated Studio Carbon's visual identity into a high-performing, user-friendly website, showcasing their design expertise effectively.
 
 ## Challenges and Solutions
 
 **Challenge: Balancing Aesthetics and Performance**
-   - Problem: The image-heavy nature of the portfolio potentially impacting site speed
-   - Solution: Implemented lazy loading and image optimization techniques
-   - Result: Achieved a 40% reduction in load time while maintaining high-quality visuals
+  - Problem: The image-heavy nature of the portfolio potentially impacting site speed
+  - Solution: Implemented lazy loading and image optimization techniques
+  - Result: Achieved a 40% reduction in load time while maintaining high-quality visuals
 
-<figure>
-  <img src="https://dummyimage.com/800x400/9b59b6/ffffff&text=Performance+Optimization" alt="Performance Optimization">
-  <figcaption>Before and after comparison of website load times following optimization</figcaption>
-</figure>
-
-## Before and After Comparisons
-
-### Homepage:
-- Before: Static layout with limited visual impact
-- After: Dynamic, scrolling homepage showcasing key projects and studio philosophy
-
-### Portfolio Page:
-- Before: Simple grid of project thumbnails
-- After: Interactive, filterable portfolio with project previews and smooth transitions
-
-<figure>
-  <img src="https://dummyimage.com/800x400/e67e22/ffffff&text=Before+and+After+Comparison" alt="Before and After Comparison">
-  <figcaption>Side-by-side comparison of the homepage and portfolio page before and after redesign</figcaption>
-</figure>
+![Performance Optimization](https://images.prismic.io/designhawk/ZqFseR5LeNNTxeRU_Screenshot2024-07-25023407.png?auto=format,compress)
 
 ## Impact
 
@@ -165,14 +110,28 @@ The previous website had several issues:
 - **Improved Conversion**: 50% increase in contact form submissions and project inquiries.
 - **Enhanced Brand Perception**: Positive feedback from clients on the website's alignment with Studio Carbon's design expertise.
 
+![Final Result Showcase](https://dummyimage.com/800x400/3498db/ffffff&text=Final+Result+Showcase)
+*The new Studio Carbon website in action, showcasing improved design and functionality*
+
 ## Learnings
 
-1. **Content is King, but Context is Queen**: Presenting projects in the context of their impact and process significantly enhanced user engagement.
-2. **Performance Matters**: Even for design-focused websites, optimizing for speed is crucial for user experience and SEO.
-3. **Flexibility in Design**: Creating a flexible system for showcasing diverse project types allowed for easier content updates and maintenance.
+1. **Content is King, but Context is Queen**
 
 <figure>
-  <img src="https://dummyimage.com/800x400/3498db/ffffff&text=Final+Result+Showcase" alt="Final Result Showcase">
-  <figcaption>The new Studio Carbon website in action, showcasing improved design and functionality</figcaption>
+  <img src="https://images.prismic.io/designhawk/ZqFvPx5LeNNTxeR6_supermeme_2h40_261.png?auto=format,compress"> 
+  <figcaption>Presenting projects in the context of their impact and process significantly enhanced user engagement.</figcaption>
 </figure>
 
+2. **Performance Matters**
+
+<figure>
+  <img src="https://images.prismic.io/designhawk/ZqFvPh5LeNNTxeR4_supermeme_2h37_441.png?auto=format,compress"> 
+  <figcaption>Even for design-focused websites, optimizing for speed is crucial for user experience and SEO.</figcaption>
+</figure>
+
+3. **Flexibility in Design**
+
+<figure>
+  <img src="https://images.prismic.io/designhawk/ZqFvPx5LeNNTxeR5_supermeme_2h39_01.png?auto=format,compress"> 
+  <figcaption> Creating a flexible system for showcasing diverse project types allowed for easier content updates and maintenance.</figcaption>
+</figure>
