@@ -3,6 +3,7 @@ title: "Aurora"
 description: "Enhancing User Experience for Pixxel's Aurora Earth Observation Studio"
 date: "June 26 2024"
 demoURL: "https://astro-nano-demo.vercel.app"
+draft: true
 ---
 
 
