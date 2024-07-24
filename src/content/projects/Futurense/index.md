@@ -19,11 +19,11 @@ demoURL: "https://futurense.com/"
 
 ## Context
 
-Futurense is a cutting-edge talent transformation platform that leverages AI to help organizations upskill and reskill their workforce. As the company expanded its services and client base, there was a growing need for a digital platform that could effectively communicate their innovative approach to talent development and attract potential clients from various industries.
+Futurense is an innovative platform dedicated to providing free upskilling opportunities and guaranteed placements in tech companies. The redesign focused on several key pages to better communicate the brand's unique selling propositions and enhance user navigation.
 
 > Futurense is revolutionizing the way organizations approach talent development, using AI to create personalized learning experiences at scale.
 
-The website redesign project aimed to create a digital experience that not only showcased Futurense's advanced technology but also clearly communicated the benefits and impact of their platform to potential clients.
+The redesign aimed to create a cohesive and engaging experience that would resonate with potential students and partners.
 
 <figure>
   <img src="https://i.ytimg.com/vi/jw99IFALq_4/maxresdefault.jpg">
@@ -36,148 +36,130 @@ The website redesign project aimed to create a digital experience that not only 
 
 ## Challenge
 
-The existing website failed to capture the innovative nature of Futurense's platform and presented several challenges in terms of user experience and engagement. Our task was to address these issues while creating a platform that could scale with the company's rapid growth.
+The existing pages presented several challenges that needed to be addressed:
 
 ### Status Quo
 
-The previous website had several critical issues:
+- **Inconsistent Branding:** The visual identity across different pages was fragmented, leading to a lack of brand recognition.
+- **Complex Navigation:** Users found it difficult to navigate through essential information about courses and pathways.
+- **Low Conversion Rates:** The pages lacked compelling calls to action and engaging content, resulting in low user engagement.
+- **Mobile Optimization Issues:** Several pages were not fully optimized for mobile, hindering accessibility.
 
-- **Complex Navigation**: Users struggled to find relevant information about Futurense's services and solutions.
-- **Lack of Visual Appeal**: The design didn't reflect the cutting-edge nature of Futurense's AI-powered platform.
-- **Poor Mobile Experience**: The site wasn't optimized for mobile devices, limiting accessibility for on-the-go professionals.
-- **Ineffective Lead Generation**: The site failed to convert visitors into leads effectively.
+## Redesigned Pages
 
-<figure>
-  <img src="https://dummyimage.com/800x400/e74c3c/ffffff&text=Before+Redesign" alt="Before Redesign">
-  <figcaption>Screenshot of the Futurense website before redesign, highlighting navigation and design issues</figcaption>
-</figure>
+### 1. Zero Cost Upskilling Page
 
-## Process
+- **Clear Messaging:** The page now prominently features the zero-cost aspect of the programs, using bold typography and engaging visuals to capture attention.
 
-### 1. Research and Analysis
+<video controls loop mute autoplay playinline src="upskill.mp4" title="Title"></video>
 
-- Conducted in-depth interviews with 25 current clients and potential customers to understand their needs and pain points.
-- Analyzed 8 competitor websites to identify industry trends and opportunities for differentiation.
-- Created detailed user personas representing key segments: HR Directors, L&D Managers, and C-Suite Executives.
-- Developed comprehensive user journey maps to identify key touchpoints and opportunities for improvement.
+- **User Testimonials:** Added testimonials from successful alumni to build trust and credibility.
 
-<figure>
-  <img src="https://dummyimage.com/800x400/27ae60/ffffff&text=User+Persona+and+Journey+Map" alt="User Persona and Journey Map">
-  <figcaption>Example of a user persona and journey map developed during the research phase</figcaption>
-</figure>
+### 2. Futurense USP Page
 
-### 2. Design and Prototyping
+- **Concise Value Proposition:** The unique selling propositions are presented in a visually appealing format, using icons and short descriptions for clarity.
+  
+  ![Futurense USP](/api/placeholder/400/300)
 
-- Crafted a new visual language that balanced technological sophistication with approachability.
-- Developed wireframes for key pages, iterating based on stakeholder feedback.
-- Created high-fidelity mockups incorporating Futurense's brand colors, typography, and visual elements.
-- Built interactive prototypes to test user flows and gather feedback from stakeholders and potential users.
+- **Interactive Elements:** Incorporated hover effects and animations to make the content more engaging.
 
-<figure>
-  <img src="https://dummyimage.com/800x400/f39c12/ffffff&text=Design+Mockups" alt="Design Mockups">
-  <figcaption>High-fidelity mockups showcasing the new design direction for Futurense</figcaption>
-</figure>
+### 3. Futurense US Pathway Page
 
-### 3. Micro-Interactions and Features
+- **Structured Pathway Visualization:** Created a flowchart-style layout to illustrate the educational pathways clearly, making it easier for users to understand their journey.
+  
+  ![US Pathway](/api/placeholder/400/300)
 
-1. **AI Platform Simulator**: 
-   Implemented an interactive demo that allows users to experience Futurense's AI-powered platform firsthand.
+- **Call to Action:** Strong CTAs encourage users to start their journey with Futurense.
 
-   <video width="100%" autoplay loop muted>
-     <source src="https://dummyimage.com/800x400/8e44ad/ffffff&text=AI+Platform+Simulator" type="video/mp4">
-   </video>
+### 4. Futurense Uni Page
 
-2. **Solution Finder**: 
-   Developed a dynamic tool to help users identify the most relevant Futurense solutions for their organization's needs.
+- **Enhanced Course Information:** Each course is detailed with key benefits, outcomes, and enrollment information, presented in an easy-to-read format.
+  
+  ![Futurense Uni](/api/placeholder/400/300)
 
-   <video width="100%" autoplay loop muted>
-     <source src="https://dummyimage.com/800x400/16a085/ffffff&text=Solution+Finder" type="video/mp4">
-   </video>
+- **Visual Appeal:** High-quality images and graphics enhance the aesthetic and informational value of the page.
 
-3. **ROI Calculator**: 
-   Created an interactive calculator to help potential clients estimate the return on investment for implementing Futurense's platform.
+### 5. Futurense Campus Page
 
-   <video width="100%" autoplay loop muted>
-     <source src="https://dummyimage.com/800x400/d35400/ffffff&text=ROI+Calculator" type="video/mp4">
-   </video>
+- **Campus Life Highlight:** The page showcases student life and community involvement through vibrant images and engaging descriptions.
+  
+  ![Futurense Campus](/api/placeholder/400/300)
 
-### 4. Development and Testing
+- **Interactive Features:** Added a virtual tour option to give potential students a feel for the campus environment.
 
-- Collaborated closely with the development team, using an agile methodology with 2-week sprints.
-- Conducted 6 rounds of usability testing with a total of 60 participants, iterating on the design based on feedback.
-- Performed extensive cross-browser and device testing to ensure a consistent experience across platforms.
-- Implemented A/B testing for key elements like CTAs and hero sections to optimize conversion rates.
+### 6. About Us Page
 
-<figure>
-  <img src="https://dummyimage.com/800x400/34495e/ffffff&text=Usability+Testing+Session" alt="Usability Testing Session">
-  <figcaption>A usability testing session in progress, gathering valuable user feedback</figcaption>
-</figure>
+- **Storytelling Approach:** The About Us page now tells the story of Futurense, its mission, and its impact through compelling narratives and visuals.
+  
+  ![About Us](/api/placeholder/400/300)
 
-## Specific Design Decisions
+- **Team Introduction:** Introduced a section to highlight key team members, fostering a personal connection with the audience.
 
-1. **Dynamic Hero Section**
-   - Decision: Implement an animated hero section showcasing Futurense's AI capabilities
-   - Rationale: Immediately demonstrate the power of Futurense's platform
-   - Implementation: Created an animated data visualization representing AI-driven insights
+### 7. Home Page
 
-2. **Persona-Based Navigation**
-   - Decision: Develop navigation paths tailored to different user roles (e.g., HR, L&D, C-Suite)
-   - Rationale: Provide targeted information to different user segments
-   - Implementation: Created role-specific landing pages with relevant content and use cases
+- **Storytelling Approach:** The About Us page now tells the story of Futurense, its mission, and its impact through compelling narratives and visuals.
+  
+  ![About Us](/api/placeholder/400/300)
+  
 
-3. **Interactive Case Studies**
-   - Decision: Implement engaging, interactive case studies
-   - Rationale: Showcase real-world impact of Futurense's solutions
-   - Implementation: Developed scrollytelling case studies with animated data visualizations
+- **Team Introduction:** Introduced a section to highlight key team members, fostering a personal connection with the audience.
 
-<figure>
-  <img src="https://dummyimage.com/800x400/1abc9c/ffffff&text=Persona-Based+Navigation" alt="Persona-Based Navigation">
-  <figcaption>Example of the persona-based navigation system for different user roles</figcaption>
-</figure>
+## Development Collaboration and Performance Optimization
 
-## Challenges and Solutions
+Following the design phase, we engaged in extensive collaboration with the development team to ensure smooth implementation and optimal performance of the redesigned pages.
 
-**Challenge: Communicating Complex AI Concepts**
-   - Problem: Difficulty in explaining the benefits of AI-powered talent transformation to non-technical audiences
-   - Solution: Developed an "AI Explainer" section with interactive demos and simple analogies
-   - Result: 50% increase in time spent on the platform overview page and improved understanding of Futurense's unique value proposition
+### Collaboration with Development Team
 
-<figure>
-  <img src="https://dummyimage.com/800x400/9b59b6/ffffff&text=AI+Explainer+Section" alt="AI Explainer Section">
-  <figcaption>The "AI Explainer" section, demonstrating complex AI concepts in an accessible way</figcaption>
-</figure>
+- **Regular Check-ins:** We established weekly calls with the development team to discuss progress, address challenges, and align on implementation details.
 
-## Before and After Comparisons
+![alt text](image-1.png)
 
-### Homepage:
-- Before: Text-heavy design with limited visual representation of the platform's capabilities
-- After: Dynamic layout featuring animated data visualizations, clear value propositions, and persona-based navigation
+![alt text](image-2.png)
 
-### Solutions Page:
-- Before: Static list of services without context or use cases
-- After: Interactive solution finder, detailed use cases, and prominent CTAs for demos and consultations
+- **Design Handover:** Conducted comprehensive design handover sessions, walking the developers through each redesigned page, explaining the rationale behind design decisions, and discussing interactive elements.
+- **Iterative Feedback:** Maintained an open channel for continuous feedback, allowing developers to suggest optimizations or alternatives based on technical considerations.
 
-<figure>
-  <img src="https://dummyimage.com/800x400/e67e22/ffffff&text=Before+and+After+Comparison" alt="Before and After Comparison">
-  <figcaption>Side-by-side comparison of the homepage and solutions page before and after redesign</figcaption>
-</figure>
+### Performance Optimization
+
+To ensure the redesigned pages not only looked great but also performed well, we worked closely with the development team to implement various optimizations:
+
+1. **Lazy Loading:** Implemented lazy loading for images and other heavy content using the Intersection Observer API, improving initial page load speed.
+
+2. **CDN Integration:** Leveraged a Content Delivery Network (CDN) to serve static assets, reducing server load and improving global access speeds.
+
+3. **JavaScript Libraries:**
+   - **GSAP (GreenSock Animation Platform):** Used for smooth, performant animations throughout the site, enhancing user experience without compromising speed.
+   - **Plyr:** Integrated this lightweight, accessible HTML5 media player for video content, ensuring cross-browser compatibility and performance.
+   - **Spide:** Employed this lightweight slider library for carousels and image galleries, offering better performance compared to heavier alternatives.
+
+### Results of Optimization Efforts
+
+- **Improved Page Speed:** Achieved a 40% improvement in average page load time across all redesigned pages.
+- **Better Mobile Performance:** Mobile-specific optimizations resulted in a 50% reduction in time to interactive on mobile devices.
+
+![alt text](image.png)
+
+This collaborative approach between design and development teams, coupled with a focus on performance optimization, ensured that the redesigned Futurense pages not only met aesthetic and functional goals but also delivered a fast, smooth user experience across all devices.
 
 ## Impact
 
-- **Increased Engagement**: Average time on site increased by 80%, with a 55% reduction in bounce rate.
-- **Lead Generation**: 200% increase in demo requests and consultation bookings.
-- **Mobile Traffic**: 90% increase in mobile users, with mobile conversion rates improving by 150%.
-- **Brand Perception**: Post-redesign surveys showed a 40% increase in perceived innovation and technological leadership.
+- **Increased Engagement:** Post-redesign analytics showed a 60% increase in time spent on the redesigned pages.
+- **Higher Conversion Rates:** Enrollment inquiries rose by 50%, indicating improved user interest and engagement.
+- **Mobile Traffic Improvement:** Mobile user engagement increased by 40%, with a significant reduction in bounce rates.
 
 ## Learnings
 
-1. **Personalization is Key**: Tailoring the user experience to specific personas significantly improved engagement and conversion rates.
-2. **Visualize Complex Concepts**: Using interactive visualizations and demos helped simplify complex AI concepts, making them more accessible to non-technical audiences.
-3. **Balance Innovation and Usability**: While showcasing cutting-edge technology, it's crucial to maintain intuitive navigation and clear communication.
-4. **Continuous Iteration**: Post-launch feedback led to several UX improvements, highlighting the importance of ongoing refinement and user testing.
+1. **Consistency is Key**
 
 <figure>
-  <img src="https://dummyimage.com/800x400/2980b9/ffffff&text=Final+Result+Showcase" alt="Final Result Showcase">
-  <figcaption>The new Futurense website in action, showcasing improved design and functionality</figcaption>
+  <img src="https://images.prismic.io/designhawk/ZqFHlB5LeNNTxeDD_supermeme_23h48_37.png?auto=format,compress"> 
+  <figcaption>Maintaining a cohesive brand identity across all pages enhances recognition and trust.</figcaption>
+</figure>
+
+2. **Visual Storytelling Works**
+
+<figure>
+  <img src="https://images.prismic.io/designhawk/ZqFIIh5LeNNTxeDQ_supermeme_23h58_56.png?auto=format,compress"> 
+  <figcaption> Engaging visuals and narratives effectively communicate the brand's mission and offerings.</figcaption>
 </figure>
 

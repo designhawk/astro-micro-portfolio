@@ -96,6 +96,7 @@ The previous website had several critical issues:
   <figcaption>Working on Concrete concepts after a basic idea of composotion and brand</figcaption>
 </figure>
 
+
 ### 3. Development and Testing
 
 - Developed the website using Webflow, employing a technique where we used finsweet-based practices for better management of classes and overall website handling in terms of the backend.
@@ -164,21 +165,21 @@ The previous website had several critical issues:
 1. **Visualization is Key**
 
 <figure>
-  <img src="https://images.prismic.io/designhawk/ZqDqIB5LeNNTxdJK_download.jpeg?auto=format,compress" style="width: 100%; height: 100%; object-fit: contain; alt="Industry-Specific Landing Page"> 
+  <img src="https://images.prismic.io/designhawk/ZqDqIB5LeNNTxdJK_download.jpeg?auto=format,compress"> 
   <figcaption>In the robotics industry, showing is more effective than telling.</figcaption>
 </figure>
 
 2. **Personalization Drives Conversion**
 
 <figure>
-  <img src="https://images.prismic.io/designhawk/ZqDqHh5LeNNTxdJH_8y1f36.jpg?auto=format,compress" style="width: 100%; height: 100%; object-fit: contain; alt="Industry-Specific Landing Page"> 
+  <img src="https://images.prismic.io/designhawk/ZqDqHh5LeNNTxdJH_8y1f36.jpg?auto=format,compress"> 
   <figcaption> Tailoring content and CTAs based on industry and user behavior led to a substantial increase in conversions.</figcaption>
 </figure>
 
 3. **Continuous Iteration**
 
 <figure>
-  <img src="https://images.prismic.io/designhawk/ZqDqHx5LeNNTxdJI_8y1ezn.jpg?auto=format,compress" style="width: 100%; height: 100%; object-fit: contain; alt="Industry-Specific Landing Page"> 
+  <img src="https://images.prismic.io/designhawk/ZqDqHx5LeNNTxdJI_8y1ezn.jpg?auto=format,compress"> 
   <figcaption> Post-launch feedback led to several UX improvements, highlighting the importance of ongoing refinement and user testing.</figcaption>
 </figure>
 
