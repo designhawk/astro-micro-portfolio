@@ -1,7 +1,7 @@
 ---
 title: "Peer Robotics"
 description: "A comprehensive case study of the Peer Robotics website project"
-date: "2024-03-26"
+date: "2024-07-12"
 demoURL: "https://www.peerrobotics.ai/"
 ---
 
@@ -13,7 +13,7 @@ demoURL: "https://www.peerrobotics.ai/"
 
 | Role | Team Size | Platform | Tools | Duration |
 |:-----|:----------|:---------|:------|:---------|
-| Lead UI/UX Designer and Developer  | 1 UI/UX, 1 Visual Designer | Webflow | Figma | 5 weeks |
+| Lead UI/UX Designer and Developer  | 1 UI/UX, 1 Visual Designer | Webflow | Figma, Keyshot 3D | 5 weeks |
 
 ## Context
 
@@ -51,11 +51,6 @@ The previous website had several critical issues:
   Your browser does not support the video tag.
 </video>
 
-<figure>
-  <img src="https://dummyimage.com/800x400/e74c3c/ffffff&text=Before+Redesign" alt="Before Redesign">
-  <figcaption>Screenshot of the Peer Robotics website before redesign, highlighting navigation and design issues</figcaption>
-</figure>
-
 ## Process
 
 ### 1. Research and Analysis
@@ -63,31 +58,44 @@ The previous website had several critical issues:
 - Analyzed competitor websites to identify industry trends and opportunities for differentiation.
 - Created detailed website architectures, listing out pages based on content.
 
-<figure>
-  <img src="https://dummyimage.com/800x400/27ae60/ffffff&text=User+Persona+and+Journey+Map" alt="User Persona and Journey Map">
-  <figcaption>Example of a user persona and journey map developed during the research phase</figcaption>
-</figure>
-
 ### 2. Design and Prototyping
 
 - Our visual communication team built a new visual language that balanced technological sophistication with approachability.
+
+<figure>
+  <img src="https://images.prismic.io/designhawk/ZqEw-x5LeNNTxd7W_Screenshot2024-02-02at12.175-1-.png?auto=format,compress">
+  <figcaption>Moodboard for the website and brand</figcaption>
+</figure>
+
 - Developed wireframes for key pages, iterating based on stakeholder feedback.
-- Created high-fidelity mockups incorporating Peer Robotics' brand colors, typography, and visual elements.
 
 <figure>
   <img src="https://images.prismic.io/designhawk/ZqD1RB5LeNNTxdQK_Frame99-1-.png?auto=format,compress">
-  <figcaption>High-fidelity mockups showcasing the new design direction for Peer Robotics</figcaption>
+  <figcaption>Website Archirtecture</figcaption>
 </figure>
 
 <figure>
   <img src="https://images.prismic.io/designhawk/ZqD1Qh5LeNNTxdQI_Section1-1-.png?auto=format,compress">
-  <figcaption>High-fidelity mockups showcasing the new design direction for Peer Robotics</figcaption>
+  <figcaption>Wireframes for all pages</figcaption>
 </figure>
 
 <figure>
   <img src="https://images.prismic.io/designhawk/ZqD1Qx5LeNNTxdQJ_Slide4_3-1-1-.png?auto=format,compress">
-  <figcaption>High-fidelity mockups showcasing the new design direction for Peer Robotics</figcaption>
+  <figcaption>I genereally use widgets of adding notes for copy on a particular section</figcaption>
 </figure>
+
+- Created concepts incorporating Peer Robotics' brand colours, typography, and visual elements.
+
+<figure>
+  <img src="https://images.prismic.io/designhawk/ZqEuzB5LeNNTxd6L_image90.png?auto=format,compress">
+  <figcaption>Early concepts that I was working on</figcaption>
+</figure>
+
+<figure>
+  <img src="https://images.prismic.io/designhawk/ZqEuzR5LeNNTxd6M_image91.png?auto=format,compress">
+  <figcaption>Working on Concrete concepts after a basic idea of composotion and brand</figcaption>
+</figure>
+
 
 
 ### 3. Development and Testing
@@ -97,28 +105,15 @@ The previous website had several critical issues:
 - Implemented a few scripts like Lenis to smoothen overall scrolling of the website and provide a nice feel to it. Used Splide, Swiper, and Lottie files for enhanced interactivity.
 
 <figure>
-  <img src="https://dummyimage.com/800x400/34495e/ffffff&text=Usability+Testing+Session" alt="Usability Testing Session">
-  <figcaption>A usability testing session in progress, gathering valuable user feedback</figcaption>
+  <img src="https://images.prismic.io/designhawk/ZqEuPh5LeNNTxd55_Screenshot2024-07-24220429.png?auto=format,compress" alt="Usability Testing Session">
+  <figcaption>Lighthouse Report</figcaption>
 </figure>
-
-<figure>
-  <img src="https://dummyimage.com/800x400/1abc9c/ffffff&text=Industry-Specific+Landing+Page" alt="Industry-Specific Landing Page">
-  <figcaption>Example of an industry-specific landing page for the automotive sector</figcaption>
-</figure>
-
-### 4. Content Optimization
-
-- Collaborated with the content team to develop industry-specific landing pages, addressing unique challenges and applications of collaborative robots in each sector.
-- Optimized content for search engines, focusing on relevant keywords and phrases to improve organic visibility.
-
-![Industry-Specific Landing Page](https://dummyimage.com/800x400/1abc9c/ffffff&text=Industry-Specific+Landing+Page)
-*Example of an industry-specific landing page for the automotive sector*
 
 ## Final Result Showcase
 
 ### Homepage:
-- Before: Text-heavy design with limited visual representation of products
-- After: Dynamic layout featuring video background, clear value propositions, and easy navigation to key sections
+- **Clear Value Proposition**: The homepage prominently displays the company's innovative approach to robotics, effectively communicating the benefits of their solutions for manufacturers.
+- **User-Friendly Design**: The layout is clean and organized, allowing visitors to easily navigate through information about products and solutions without feeling overwhelmed.
 
 <video width="100%" autoplay loop muted playinline >
   <source src="https://designhawk.cdn.prismic.io/designhawk/ZqEBgh5LeNNTxdac_home.mp4" type="video/mp4">
@@ -126,8 +121,8 @@ The previous website had several critical issues:
 </video>
 
 ### Products Page:
-- Before: Static images and technical specifications
-- After: Interactive 3D renders, use case examples, and prominent CTAs for demos and inquiries
+- **Structured Product Information**: The page presents product details in a clear, structured format, allowing users to easily compare features and specifications of each robot.
+- **Engaging Descriptions**: Compelling product descriptions highlight key benefits and applications, effectively communicating the value of each robotic solution to potential customers.
 
 <video width="100%" autoplay loop muted playinline >
   <source src="https://designhawk.cdn.prismic.io/designhawk/ZqEBnR5LeNNTxdal_products.mp4" type="video/mp4">
@@ -135,8 +130,8 @@ The previous website had several critical issues:
 </video>
 
 ### Solutions Page:
-- Before: Static images and technical specifications
-- After: Interactive 3D renders, use case examples, and prominent CTAs for demos and inquiries
+- **Clear Solution Presentation**: The page effectively organizes solutions with concise headings and bullet points, making it easy for users to quickly understand each offering.
+- **Engaging Visuals**: The use of relevant images alongside text enhances comprehension and keeps visitors engaged with the content.
 
 <video width="100%" autoplay loop muted playinline >
   <source src="https://designhawk.cdn.prismic.io/designhawk/ZqECAh5LeNNTxda0_Soultions.mp4" type="video/mp4">
@@ -144,8 +139,8 @@ The previous website had several critical issues:
 </video>
 
 ### Product Page:
-- Before: Static images and technical specifications
-- After: Interactive 3D renders, use case examples, and prominent CTAs for demos and inquiries
+- **User-Centric Navigation**: The website features an intuitive layout that allows easy access to key information and enhances user experience.
+- **Engaging Visuals**: High-quality images and videos effectively showcase the robots in action, reinforcing the brand's innovative identity.
 
 <video width="100%" autoplay loop muted playinline >
   <source src="https://designhawk.cdn.prismic.io/designhawk/ZqECBh5LeNNTxda4_rm500.mp4" type="video/mp4">
