@@ -112,9 +112,9 @@ Following the design phase, we engaged in extensive collaboration with the devel
 
 - **Regular Check-ins:** We established weekly calls with the development team to discuss progress, address challenges, and align on implementation details.
 
-![alt text](image-1.png)
+![alt text](https://images.prismic.io/designhawk/ZqFcbR5LeNNTxeKY_vlcsnap-2024-07-25-01h25m12s885.png?auto=format,compress)
 
-![alt text](image-2.png)
+![alt text](https://images.prismic.io/designhawk/ZqFcbB5LeNNTxeKX_vlcsnap-2024-07-25-01h24m47s317.png?auto=format,compress)
 
 - **Design Handover:** Conducted comprehensive design handover sessions, walking the developers through each redesigned page, explaining the rationale behind design decisions, and discussing interactive elements.
 - **Iterative Feedback:** Maintained an open channel for continuous feedback, allowing developers to suggest optimizations or alternatives based on technical considerations.
@@ -137,7 +137,7 @@ To ensure the redesigned pages not only looked great but also performed well, we
 - **Improved Page Speed:** Achieved a 40% improvement in average page load time across all redesigned pages.
 - **Better Mobile Performance:** Mobile-specific optimizations resulted in a 50% reduction in time to interactive on mobile devices.
 
-![alt text](image.png)
+![alt text](https://images.prismic.io/designhawk/ZqFb8x5LeNNTxeKK_Screenshot2024-07-25003911.png?auto=format,compress)
 
 This collaborative approach between design and development teams, coupled with a focus on performance optimization, ensured that the redesigned Futurense pages not only met aesthetic and functional goals but also delivered a fast, smooth user experience across all devices.
 
