@@ -96,8 +96,6 @@ The previous website had several critical issues:
   <figcaption>Working on Concrete concepts after a basic idea of composotion and brand</figcaption>
 </figure>
 
-
-
 ### 3. Development and Testing
 
 - Developed the website using Webflow, employing a technique where we used finsweet-based practices for better management of classes and overall website handling in terms of the backend.
@@ -146,6 +144,14 @@ The previous website had several critical issues:
   <source src="https://designhawk.cdn.prismic.io/designhawk/ZqECBh5LeNNTxda4_rm500.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+![Image 1](https://images.prismic.io/designhawk/ZqE76R5LeNNTxd_c_MACBOOK-MOCKUP-05copy-1-.png?auto=format,compress)
+
+![Image 2](https://images.prismic.io/designhawk/ZqE76x5LeNNTxd_e_IPHONE-MOCKUP-08copy-1-.png?auto=format,compress)
+
+![Image 3](https://images.prismic.io/designhawk/ZqE76h5LeNNTxd_d_MACBOOK-MOCKUP-06copy-1-.png?auto=format,compress)
+
+![Image 4](https://images.prismic.io/designhawk/ZqE77R5LeNNTxd_f_IPHONE-MOCKUP-03copy-1-.png?auto=format,compress)
 
 ## Impact
 

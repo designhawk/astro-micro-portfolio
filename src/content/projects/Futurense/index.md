@@ -8,15 +8,14 @@ demoURL: "https://futurense.com/"
 ---
 
 <figure>
-  <img src="https://dummyimage.com/800x400/3498db/ffffff&text=Futurense+Hero" alt="Futurense Website Hero Image">
-  <figcaption>Futurense's new website homepage showcasing their AI-powered talent transformation platform</figcaption>
+  <img src="https://www.notion.so/image/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe9bb98e6-4a90-4aa3-9842-e30cec7f370e%2FMETA-.png?id=d37b523e-06b7-4780-b76b-64cf198fdc31&table=block&spaceId=2c81bb5e-e773-4a85-9e14-d7c0a11edb12&width=2000&userId=fc1194bc-e821-4c8e-8e88-55bd18d18548&cache=v2">
 </figure>
 
 ## Project Brief
 
 | Role | Team Size | Platform | Tools | Duration |
 |:-----|:----------|:---------|:------|:---------|
-| Lead UI/UX Designer | 2 UI/UX, 1 Visual Designer, 3 Developers | Custom CMS | Figma, Adobe XD, InVision | 10 weeks |
+| Lead UI/UX Designer | 1 UI/UX, 1 Visual Designer | Webflow | Figma | 6 weeks |
 
 ## Context
 
@@ -27,8 +26,12 @@ Futurense is a cutting-edge talent transformation platform that leverages AI to 
 The website redesign project aimed to create a digital experience that not only showcased Futurense's advanced technology but also clearly communicated the benefits and impact of their platform to potential clients.
 
 <figure>
-  <img src="https://dummyimage.com/800x400/2c3e50/ffffff&text=Futurense+Platform+Overview" alt="Futurense Platform Overview">
-  <figcaption>An overview of Futurense's AI-powered talent transformation platform</figcaption>
+  <img src="https://i.ytimg.com/vi/jw99IFALq_4/maxresdefault.jpg">
+  <figcaption>Raghav Gupta, Co-Founder and CEO at Futurense | Co-Founder at The 1% Club.</figcaption>
+</figure>
+
+<figure>
+  <img src="https://cdn.prod.website-files.com/64182881d039698e35a449c1/660ffdd145ba166d797f2d9d_Pillars%20(1).webp">
 </figure>
 
 ## Challenge
