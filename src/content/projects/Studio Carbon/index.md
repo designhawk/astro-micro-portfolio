@@ -54,7 +54,9 @@ The previous website had several issues:
 2. **Smooth Scroll Transitions**: 
   Developed smooth scrolling transitions between sections to create a fluid browsing experience.
 
-<video src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXB5LeNNTxeRH_projecthero.mp4" autoplay="" playsinline="" loop="" muted=""></video>
+<video autoplay="autoplay" muted="" loop="true" id="myVideo" width="100%" playsinline="">
+  <source src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXB5LeNNTxeRH_projecthero.mp4" type="video/mp4">
+</video>
 
 3. **Interactive Case Studies**: 
   Created expandable case studies that allow users to dive deep into project details without leaving the page.
