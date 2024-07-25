@@ -5,8 +5,6 @@ date: "2024-03-28"
 demoURL: "https://www.studiocarbon.in/"
 ---
 
----
-
 ![Studio Carbon Website Hero Image](https://cdn.prod.website-files.com/63c5269fd06f1037b48511a2/65c7aecd48b17a6f46c5f088_Frame%20427321450.webp)
 
 ## Project Brief
@@ -21,12 +19,10 @@ Studio Carbon is a multidisciplinary design studio based in India, specializing 
 
 > Studio Carbon believes in the power of design to create meaningful experiences and lasting impressions.
 
-The website design project aimed to create a digital portfolio that not only showcased Studio Carbon's impressive body of work but also communicated their design philosophy and approach to potential clients.
+The website design project aimed to create a digital portfolio that not only showcased Studio Carbon's impressive body of work but also communicated their design philosophy and approach to potential clients.[^1]
 
-<figure>
-  <img src="https://media.licdn.com/dms/image/D4D22AQGeY3rY1qzGqg/feedshare-shrink_800/0/1708409552362?e=2147483647&v=beta&t=QWmD8vI5vL4OfC2ZiaNBLv8vvOoXC88kB0Keonoz2MI">
-  <figcaption>Founders of Studio Carbon</figcaption>
-</figure>
+![Founders of Studio Carbon](https://media.licdn.com/dms/image/D4D22AQGeY3rY1qzGqg/feedshare-shrink_800/0/1708409552362?e=2147483647&v=beta&t=QWmD8vI5vL4OfC2ZiaNBLv8vvOoXC88kB0Keonoz2MI)
+*Founders of Studio Carbon*
 
 ## Challenge
 
@@ -47,19 +43,28 @@ The previous website had several issues:
 ## Micro-Interactions and Features
 
 1. **Dynamic Portfolio Grid**: 
-  Implemented a responsive grid layout that adapts to different screen sizes and showcases projects beautifully.
+   Implemented a responsive grid layout that adapts to different screen sizes and showcases projects beautifully.
 
-<video src="https://designhawk.cdn.prismic.io/designhawk/ZqFrWR5LeNNTxeRG_home-2-.mp4" autoplay="" playsinline="" loop="" muted=""></video>
+   <video autoplay playsinline loop muted>
+     <source src="https://designhawk.cdn.prismic.io/designhawk/ZqFrWR5LeNNTxeRG_home-2-.mp4" type="video/mp4">
+     Your browser does not support the video tag.
+   </video>
 
 2. **Smooth Scroll Transitions**: 
-  Developed smooth scrolling transitions between sections to create a fluid browsing experience.
+   Developed smooth scrolling transitions between sections to create a fluid browsing experience.
 
-<video src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXB5LeNNTxeRH_projecthero.mp4" autoplay="" playsinline="" loop="" muted=""></video>
+   <video autoplay playsinline loop muted>
+     <source src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXB5LeNNTxeRH_projecthero.mp4" type="video/mp4">
+     Your browser does not support the video tag.
+   </video>
 
 3. **Interactive Case Studies**: 
-  Created expandable case studies that allow users to dive deep into project details without leaving the page.
+   Created expandable case studies that allow users to dive deep into project details without leaving the page.
 
-<video src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXh5LeNNTxeRI_easeintransitions.mp4" autoplay="" playsinline="" loop="" muted=""></video>
+   <video autoplay playsinline loop muted>
+     <source src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXh5LeNNTxeRI_easeintransitions.mp4" type="video/mp4">
+     Your browser does not support the video tag.
+   </video>
 
 ## Development on Webflow
 
@@ -93,14 +98,15 @@ The transition from Wix to Webflow focused on creating a high-performance, visua
 - Implemented responsive design for optimal viewing across devices
 - Balanced visual richness with performance, achieving 85+ PageSpeed score
 
-The development phase successfully translated Studio Carbon's visual identity into a high-performing, user-friendly website, showcasing their design expertise effectively.
+The development phase successfully translated Studio Carbon's visual identity into a high-performing, user-friendly website, showcasing their design expertise effectively.[^2]
 
 ## Challenges and Solutions
 
 **Challenge: Balancing Aesthetics and Performance**
-  - Problem: The image-heavy nature of the portfolio potentially impacting site speed
-  - Solution: Implemented lazy loading and image optimization techniques
-  - Result: Achieved a 40% reduction in load time while maintaining high-quality visuals
+
+- **Problem**: The image-heavy nature of the portfolio potentially impacting site speed
+- **Solution**: Implemented lazy loading and image optimization techniques
+- **Result**: Achieved a 40% reduction in load time while maintaining high-quality visuals
 
 ![Performance Optimization](https://images.prismic.io/designhawk/ZqFseR5LeNNTxeRU_Screenshot2024-07-25023407.png?auto=format,compress)
 
@@ -117,21 +123,18 @@ The development phase successfully translated Studio Carbon's visual identity in
 
 1. **Content is King, but Context is Queen**
 
-<figure>
-  <img src="https://images.prismic.io/designhawk/ZqFvPx5LeNNTxeR6_supermeme_2h40_261.png?auto=format,compress"> 
-  <figcaption>Presenting projects in the context of their impact and process significantly enhanced user engagement.</figcaption>
-</figure>
+   ![Content and Context Meme](https://images.prismic.io/designhawk/ZqFvPx5LeNNTxeR6_supermeme_2h40_261.png?auto=format,compress)
+   *Presenting projects in the context of their impact and process significantly enhanced user engagement.*
 
 2. **Performance Matters**
 
-<figure>
-  <img src="https://images.prismic.io/designhawk/ZqFvPh5LeNNTxeR4_supermeme_2h37_441.png?auto=format,compress"> 
-  <figcaption>Even for design-focused websites, optimizing for speed is crucial for user experience and SEO.</figcaption>
-</figure>
+   ![Performance Matters Meme](https://images.prismic.io/designhawk/ZqFvPh5LeNNTxeR4_supermeme_2h37_441.png?auto=format,compress)
+   *Even for design-focused websites, optimizing for speed is crucial for user experience and SEO.*
 
 3. **Flexibility in Design**
 
-<figure>
-  <img src="https://images.prismic.io/designhawk/ZqFvPx5LeNNTxeR5_supermeme_2h39_01.png?auto=format,compress"> 
-  <figcaption> Creating a flexible system for showcasing diverse project types allowed for easier content updates and maintenance.</figcaption>
-</figure>
+   ![Flexibility in Design Meme](https://images.prismic.io/designhawk/ZqFvPx5LeNNTxeR5_supermeme_2h39_01.png?auto=format,compress)
+   *Creating a flexible system for showcasing diverse project types allowed for easier content updates and maintenance.*
+
+[^1]: The project's scope encompassed not just visual redesign, but a complete overhaul of the user experience and technical infrastructure.
+[^2]: The transition to Webflow allowed for greater design flexibility and easier content management for the Studio Carbon team.

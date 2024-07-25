@@ -5,9 +5,8 @@ date: "2024-05-26"
 demoURL: "https://www.airbound.co/"
 ---
 
----
-
 ![Airbound Website Preview](https://images.prismic.io/designhawk/ZozWSx5LeNNTw61I_Slide16_9-6.png?auto=format,compress)
+*Airbound website desktop preview*
 
 ## Project Brief
 
@@ -17,7 +16,7 @@ demoURL: "https://www.airbound.co/"
 
 ## Challenge
 
-Create a professional website for Airbound, a drone technology startup, that effectively communicates their innovative approach to logistics and attracts diverse stakeholders, including investors and potential employees.
+Create a professional website for Airbound, a drone technology startup, that effectively communicates their innovative approach to logistics and attracts diverse stakeholders, including investors and potential employees.[^1]
 
 ## Status Quo
 
@@ -28,6 +27,7 @@ Prior to this project, Airbound lacked a comprehensive web presence, limiting th
 - Attract top talent and potential investors
 
 ![Airbound Mobile Website Preview](https://images.prismic.io/designhawk/ZozWTB5LeNNTw61J_Slide16_9-7.png?auto=format,compress)
+*Airbound website mobile preview*
 
 ## Process
 
@@ -57,39 +57,45 @@ Prior to this project, Airbound lacked a comprehensive web presence, limiting th
 
 ### Micro-Interactions and Features
 
-- **Timeline Animation for Progress Tracking**: Introduced a timeline animation to guide users through the product's journey, providing visual feedback and enhancing user engagement by highlighting key milestones and stages.
+1. **Timeline Animation for Progress Tracking**: 
+   Introduced a timeline animation to guide users through the product's journey, providing visual feedback and enhancing user engagement by highlighting key milestones and stages.[^2]
 
-<video class="video-rounded" width="100%" autoplay loop muted>
-  <source src="https://designhawk.cdn.prismic.io/designhawk/ZozXQR5LeNNTw61f_2024-07-0911-02-48.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+   <video width="100%" autoplay loop muted playsinline>
+     <source src="https://designhawk.cdn.prismic.io/designhawk/ZozXQR5LeNNTw61f_2024-07-0911-02-48.mp4" type="video/mp4">
+     Your browser does not support the video tag.
+   </video>
 
-- **Hero Animation with Product Reveal**: Implemented a dynamic hero animation that showcases the product upon page load, capturing user attention and effectively communicating the product’s unique value proposition through visual storytelling.
+2. **Hero Animation with Product Reveal**: 
+   Implemented a dynamic hero animation that showcases the product upon page load, capturing user attention and effectively communicating the product's unique value proposition through visual storytelling.
 
-<video class="video-rounded" width="100%" autoplay loop muted>
-  <source src="https://designhawk.cdn.prismic.io/designhawk/ZozXRB5LeNNTw61h_2024-07-0911-02-10.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+   <video width="100%" autoplay loop muted playsinline>
+     <source src="https://designhawk.cdn.prismic.io/designhawk/ZozXRB5LeNNTw61h_2024-07-0911-02-10.mp4" type="video/mp4">
+     Your browser does not support the video tag.
+   </video>
 
-- **Interactive Feature Cards with Product Animation**: Designed feature cards with subtle animations that reveal product functionalities as users interact with them, making the experience more engaging and informative.
+3. **Interactive Feature Cards with Product Animation**: 
+   Designed feature cards with subtle animations that reveal product functionalities as users interact with them, making the experience more engaging and informative.
 
-<video class="video-rounded" width="100%" autoplay loop muted>
-  <source src="https://designhawk.cdn.prismic.io/designhawk/ZozXRh5LeNNTw61i_2024-07-0911-01-44.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+   <video width="100%" autoplay loop muted playsinline>
+     <source src="https://designhawk.cdn.prismic.io/designhawk/ZozXRh5LeNNTw61i_2024-07-0911-01-44.mp4" type="video/mp4">
+     Your browser does not support the video tag.
+   </video>
 
-- **Hero Animation for Tech Page with Drone Landing Stance**: Developed a captivating hero animation for the tech page, featuring a drone landing stance to illustrate technological advancements and capture the essence of innovation, ensuring a memorable first impression for users.
+4. **Hero Animation for Tech Page with Drone Landing Stance**: 
+   Developed a captivating hero animation for the tech page, featuring a drone landing stance to illustrate technological advancements and capture the essence of innovation, ensuring a memorable first impression for users.
 
-<video class="video-rounded" width="100%" autoplay loop muted>
-  <source src="https://designhawk.cdn.prismic.io/designhawk/ZozXRx5LeNNTw61j_2024-07-0911-01-27.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+   <video width="100%" autoplay loop muted playsinline>
+     <source src="https://designhawk.cdn.prismic.io/designhawk/ZozXRx5LeNNTw61j_2024-07-0911-01-27.mp4" type="video/mp4">
+     Your browser does not support the video tag.
+   </video>
 
 ### Final Result Showcase
 
-![Airbound Mobile Website Preview](https://images.prismic.io/designhawk/ZpDTxh5LeNNTxFm3_A1.png?auto=format,compress)
+![Airbound Website Preview 1](https://images.prismic.io/designhawk/ZpDTxh5LeNNTxFm3_A1.png?auto=format,compress)
+*Final homepage design showcasing key features and value proposition*
 
-![Airbound Mobile Website Preview](https://images.prismic.io/designhawk/ZpDTxR5LeNNTxFm2_A2.png?auto=format,compress)
+![Airbound Website Preview 2](https://images.prismic.io/designhawk/ZpDTxR5LeNNTxFm2_A2.png?auto=format,compress)
+*Technology page highlighting Airbound's innovative drone solutions*
 
 ## Learnings
 
@@ -99,8 +105,10 @@ Prior to this project, Airbound lacked a comprehensive web presence, limiting th
 
 3. **Visual Storytelling:** Using a combination of infographics, animations, and video content proved highly effective in explaining Airbound's technology and mission.
 
-4. **Flexibility in Design Process:** Regular check-ins and iterations with the Airbound team allowed for agile adjustments, ensuring the final product aligned closely with their vision and goals.
+4. **Flexibility in Design Process:** Regular check-ins and iterations with the Airbound team allowed for agile adjustments, ensuring the final product aligned closely with their vision and goals.[^3]
 
+[^1]: The drone technology market is projected to reach $50 billion by 2028, making it crucial for startups like Airbound to establish a strong online presence to attract investors and talent.
 
+[^2]: The timeline animation was optimized for performance, ensuring smooth playback even on lower-end devices, with a fallback static image for browsers that don't support video.
 
-
+[^3]: We implemented a two-week sprint cycle, with stakeholder reviews at the end of each sprint, allowing for rapid iterations and course corrections throughout the project.
