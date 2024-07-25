@@ -54,7 +54,7 @@ The previous website had several issues:
 2. **Smooth Scroll Transitions**: 
   Developed smooth scrolling transitions between sections to create a fluid browsing experience.
 
-<video autoplay="autoplay" muted="" loop="true" id="myVideo" width="100%" playsinline="">
+<video autoplay="autoplay" muted="" loop="true" width="100%" playsinline="">
   <source src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXB5LeNNTxeRH_projecthero.mp4" type="video/mp4">
 </video>
 
