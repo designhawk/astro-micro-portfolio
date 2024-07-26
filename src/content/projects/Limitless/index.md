@@ -36,8 +36,15 @@ The previous website had several issues:
 - **Outdated Design**: The visual design failed to align with modern web standards and didn't reflect the brand's innovative ethos.
 - **Poor Navigation**: Users found it challenging to find relevant articles and resources.
 
-![Before Redesign](https://dummyimage.com/800x400/e74c3c/ffffff&text=Before+Redesign)
-*Screenshot of the website before redesign, highlighting navigation issues*
+![alt text](<Screenshot 2023-12-19 at 2.15 1.png>)
+*All Authors Page*
+
+![alt text](3.png)
+*Indiviual Authors Page*
+
+![alt text](<image 77.png>)
+*Indiviual Blog Page Content*
+
 
 ## Process
 
@@ -89,7 +96,10 @@ The previous website had several issues:
 
 - **Responsive Design**: Ensured the site was fully responsive across all devices, providing a seamless experience for mobile and desktop users.
 - **SEO Optimization**: Implemented SEO best practices to improve search engine rankings and drive organic traffic.
-- **User Testing**: Conducted usability testing sessions to refine the design based on user feedback, ensuring an intuitive and engaging user experience.
+- **Smooth Scrolling**: Implemented Lenis, a lightweight and powerful smooth scrolling library, to enhance the overall user experience and create a more polished feel to the site navigation.
+- **Dynamic Content Filtering**: Utilized Finsweet CMS filter scripts to create an efficient and user-friendly way to filter and search through the extensive content library, improving content discoverability and user engagement.
+
+![Lighthouse Report](image.png)
 
 ![Responsive Design](https://dummyimage.com/800x400/27ae60/ffffff&text=Responsive+Design)
 *Mockup showing the website's responsive design across different devices*
@@ -111,8 +121,7 @@ The previous website had several issues:
    - Rationale: Modernize the look while ensuring consistency with Lightspeed's brand
    - Implementation: Introduced a vibrant secondary color palette to complement Lightspeed's primary blue, adding energy and depth to the design
 
-![Color Palette](https://dummyimage.com/800x400/f39c12/ffffff&text=Color+Palette)
-*New color palette showcasing primary and secondary colors*
+![Color Palette](image-1.png)
 
 ## Challenges and Solutions
 
@@ -123,19 +132,6 @@ The previous website had several issues:
 
 ![Mobile Responsiveness](https://dummyimage.com/800x400/8e44ad/ffffff&text=Mobile+Responsiveness)
 *Before and after comparison of mobile responsiveness*
-
-## Before and After Comparisons
-
-### Homepage:
-- Before: Cluttered layout with small text and numerous competing call-to-action buttons
-- After: Clean, spacious design with a clear hierarchy, featuring an animated hero section and streamlined navigation
-
-### Blog Page:
-- Before: Long list of articles without categorization, difficult to find relevant content
-- After: Grid layout with visual previews, tag-based filtering, and a search function for easy content discovery
-
-![Before and After](https://dummyimage.com/800x400/34495e/ffffff&text=Before+and+After)
-*Side-by-side comparison of homepage and resource page before and after redesign*
 
 ## Impact
 
