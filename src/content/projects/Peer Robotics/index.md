@@ -61,7 +61,7 @@ The previous website had several critical issues:
 
 - Developed wireframes for key pages, iterating based on stakeholder feedback.
 
-![Website Architecture](https://images.prismic.io/designhawk/ZqD1RB5LeNNTxdQK_Frame99-1-.png?auto=format,compress)
+![Website Architecture](<Frame 99.png>)
 *Website Architecture*
 
 ![Wireframes](https://images.prismic.io/designhawk/ZqD1Qh5LeNNTxdQI_Section1-1-.png?auto=format,compress)

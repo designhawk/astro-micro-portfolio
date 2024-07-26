@@ -37,8 +37,8 @@ The previous website had several issues:
 - **Poor User Flow**: Navigation was confusing, making it difficult for potential clients to find relevant information.
 - **Outdated Technology**: The site wasn't optimized for modern web standards, resulting in slow load times and poor mobile experience.
 
-![Before Design](https://dummyimage.com/800x400/c0392b/ffffff&text=Before+Design)
-*Screenshot of the Studio Carbon website before redesign, highlighting areas for improvement*
+![Before Design](Image.png)
+*Screenshot of the Studio Carbon website Homepage*
 
 ## Micro-Interactions and Features
 
@@ -94,14 +94,6 @@ The transition from Wix to Webflow focused on creating a high-performance, visua
 
 ### Challenges and Solutions
 
-- Created complex animations using advanced CSS techniques
-- Implemented responsive design for optimal viewing across devices
-- Balanced visual richness with performance, achieving 85+ PageSpeed score
-
-The development phase successfully translated Studio Carbon's visual identity into a high-performing, user-friendly website, showcasing their design expertise effectively.[^2]
-
-## Challenges and Solutions
-
 **Challenge: Balancing Aesthetics and Performance**
 
 - **Problem**: The image-heavy nature of the portfolio potentially impacting site speed
@@ -116,8 +108,13 @@ The development phase successfully translated Studio Carbon's visual identity in
 - **Improved Conversion**: 50% increase in contact form submissions and project inquiries.
 - **Enhanced Brand Perception**: Positive feedback from clients on the website's alignment with Studio Carbon's design expertise.
 
-![Final Result Showcase](https://dummyimage.com/800x400/3498db/ffffff&text=Final+Result+Showcase)
-*The new Studio Carbon website in action, showcasing improved design and functionality*
+![alt text](<MACBOOK-MOCKUP-01 copy.png>) 
+
+![alt text](<IPHONE-MOCKUP-036 copy.png>) 
+
+![alt text](<IPHONE-MOCKUP-034 copy.png>) 
+
+![alt text](<IPHONE-MOCKUP-044 copy.png>)
 
 ## Learnings
 

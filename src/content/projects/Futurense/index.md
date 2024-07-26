@@ -44,35 +44,60 @@ The existing pages presented several challenges that needed to be addressed:
 - **Clear Messaging:** The page now prominently features the zero-cost aspect of the programs, using bold typography and engaging visuals to capture attention.
 - **User Testimonials:** Added testimonials from successful alumni to build trust and credibility.[^1]
 
-### 2. Futurense USP Page
+<video width="100%" autoplay loop muted playsinline>
+  <source src="https://cdn.jsdelivr.net/gh/designhawk/videos@main/zero.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-- **Concise Value Proposition:** The unique selling propositions are presented in a visually appealing format, using icons and short descriptions for clarity.
-- **Interactive Elements:** Incorporated hover effects and animations to make the content more engaging.[^2]
-
-### 3. Futurense US Pathway Page
+### 2. Futurense US Pathway Page
 
 - **Structured Pathway Visualization:** Created a flowchart-style layout to illustrate the educational pathways clearly, making it easier for users to understand their journey.
 - **Call to Action:** Strong CTAs encourage users to start their journey with Futurense.
 
-### 4. Futurense Uni Page
+<video width="100%" autoplay loop muted playsinline>
+  <source src="https://cdn.jsdelivr.net/gh/designhawk/videos@main/us.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### 3. Futurense Uni Page
 
 - **Enhanced Course Information:** Each course is detailed with key benefits, outcomes, and enrollment information, presented in an easy-to-read format.
 - **Visual Appeal:** High-quality images and graphics enhance the aesthetic and informational value of the page.
 
-### 5. Futurense Campus Page
+<video width="100%" autoplay loop muted playsinline>
+  <source src="https://cdn.jsdelivr.net/gh/designhawk/videos@main/uni.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### 4. Futurense Campus Page
 
 - **Campus Life Highlight:** The page showcases student life and community involvement through vibrant images and engaging descriptions.
 - **Interactive Features:** Added a virtual tour option to give potential students a feel for the campus environment.
 
-### 6. About Us Page
+<video width="100%" autoplay loop muted playsinline>
+  <source src="https://cdn.jsdelivr.net/gh/designhawk/videos@main/campus.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### 5. About Us Page
 
 - **Storytelling Approach:** The About Us page now tells the story of Futurense, its mission, and its impact through compelling narratives and visuals.
-- **Team Introduction:** Introduced a section to highlight key team members, fostering a personal connection with the audience.
+- **Team Introduction:** Introduced a section to highlight key team members, fostering a personal connection with the audience. 
 
-### 7. Home Page
+<video width="100%" autoplay loop muted playsinline>
+  <source src="https://cdn.jsdelivr.net/gh/designhawk/videos@main/about.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### 6. Home Page
 
 - **Dynamic Hero Section:** Implemented a visually striking hero section that immediately communicates Futurense's value proposition.
 - **Streamlined Navigation:** Redesigned the main navigation to provide clearer pathways to key information and resources.
+
+<video width="100%" autoplay loop muted playsinline>
+  <source src="https://cdn.jsdelivr.net/gh/designhawk/videos@main/home%20(3).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Development Collaboration and Performance Optimization
 
@@ -110,6 +135,10 @@ To ensure the redesigned pages not only looked great but also performed well, we
 ![Performance Optimization Results](https://images.prismic.io/designhawk/ZqFb8x5LeNNTxeKK_Screenshot2024-07-25003911.png?auto=format,compress)
 
 This collaborative approach between design and development teams, coupled with a focus on performance optimization, ensured that the redesigned Futurense pages not only met aesthetic and functional goals but also delivered a fast, smooth user experience across all devices.
+
+## Nikhil Kamath's Website Design Feedback
+
+Nikhil Kamath, Co-Founder of Zerodha and investor-mentor to Raghav, Co-Founder of Futurense, recently reviewed our website design. As both an investor and mentor, Kamath's opinion carries significant weight. He commended the overall aesthetic appeal of the site but suggested infusing more of the Godfather brand essence.
 
 ## Impact
 

@@ -50,6 +50,12 @@ Prior to this project, Airbound lacked a comprehensive web presence, limiting th
    - Created wireframes and high-fidelity mockups
    - Developed interactive prototypes
 
+   ![alt text](unnamed.jpg)
+   *Screenshot of my Procreate file while ideating*
+   
+   ![alt text](<unnamed (1).jpg>)
+   *Screenshot of my Procreate file while ideating*
+
 5. **Development and Launch**
    - Built the website using Webflow
    - Conducted quality assurance and performance optimization
@@ -97,18 +103,23 @@ Prior to this project, Airbound lacked a comprehensive web presence, limiting th
 ![Airbound Website Preview 2](https://images.prismic.io/designhawk/ZpDTxR5LeNNTxFm2_A2.png?auto=format,compress)
 *Technology page highlighting Airbound's innovative drone solutions*
 
+![alt text](Opendrone.5.png) 
+
+![alt text](Opendrone.6.png)
+
 ## Learnings
 
-1. **Balancing Complexity and Accessibility:** Presenting complex drone technology in an easily understandable manner required a careful balance of technical details and simplified explanations.
+1. **Brand Personality Drives Differentiation:** 
 
-2. **Importance of Brand Personality:** Infusing Airbound's "crazy" and revolutionary approach into the design was crucial for differentiating them in the market.
+![alt text](supermeme_12h55_53.png)
+*Infusing Airbound's "crazy" revolutionary spirit throughout the design set them apart in a crowded market landscape.*
 
-3. **Visual Storytelling:** Using a combination of infographics, animations, and video content proved highly effective in explaining Airbound's technology and mission.
+2. **Visual Narratives Amplify Message:** 
 
-4. **Flexibility in Design Process:** Regular check-ins and iterations with the Airbound team allowed for agile adjustments, ensuring the final product aligned closely with their vision and goals.[^3]
+![alt text](supermeme_12h57_48.png)
+*Leveraging a mix of animations and video content powerfully conveyed Airbound's technological prowess and mission.*
+
 
 [^1]: The drone technology market is projected to reach $50 billion by 2028, making it crucial for startups like Airbound to establish a strong online presence to attract investors and talent.
 
 [^2]: The timeline animation was optimized for performance, ensuring smooth playback even on lower-end devices, with a fallback static image for browsers that don't support video.
-
-[^3]: We implemented a two-week sprint cycle, with stakeholder reviews at the end of each sprint, allowing for rapid iterations and course corrections throughout the project.
