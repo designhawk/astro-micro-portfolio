@@ -125,6 +125,8 @@ The previous website had several critical issues:
   Your browser does not support the video tag.
 </video>
 
+### Mockups
+
 ![Macbook Mockup 1](https://images.prismic.io/designhawk/ZqE76R5LeNNTxd_c_MACBOOK-MOCKUP-05copy-1-.png?auto=format,compress)
 
 ![iPhone Mockup 1](https://images.prismic.io/designhawk/ZqE76x5LeNNTxd_e_IPHONE-MOCKUP-08copy-1-.png?auto=format,compress)
@@ -148,12 +150,12 @@ The previous website had several critical issues:
 
 2. **Personalization Drives Conversion**
 
-![Personalization Meme](https://images.prismic.io/designhawk/ZqDqHh5LeNNTxdJH_8y1f36.jpg?auto=format,compress)
+![Personalization Meme](<image 1.png>)
 *Tailoring content and CTAs based on industry and user behavior led to a substantial increase in conversions.*
 
 3. **Continuous Iteration**
 
-![Continuous Iteration Meme](https://images.prismic.io/designhawk/ZqDqHx5LeNNTxdJI_8y1ezn.jpg?auto=format,compress)
+![Continuous Iteration Meme](<image 2.png>)
 *Post-launch feedback led to several UX improvements, highlighting the importance of ongoing refinement and user testing.*
 
 [^1]: The robotics industry is projected to grow at a CAGR of 17.45% from 2024 to 2029, making effective digital presence crucial for companies like Peer Robotics.

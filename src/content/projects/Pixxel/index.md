@@ -3,6 +3,7 @@ title: "Aurora"
 description: "Enhancing User Experience for Pixxel's Aurora Earth Observation Studio"
 date: "June 26 2024"
 demoURL: "https://www.pixxel.space/blogs/introducing-aurora-pixxels-earth-observation-studio"
+draft: true
 ---
 
 <video width="100%" autoplay loop muted>

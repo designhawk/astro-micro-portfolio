@@ -12,7 +12,7 @@ demoURL: "https://www.airbound.co/"
 
 | Role | Team Size | Platform | Tools | Duration |
 |:-----|:----------|:---------|:------|:---------|
-| Product Designer & Dev. | 2 PD | Webflow | Figma, Notion | 6 weeks |
+| Lead Product Designer & Dev. | 2 PD | Webflow | Figma, Notion | 6 weeks |
 
 ## Challenge
 
@@ -98,10 +98,8 @@ Prior to this project, Airbound lacked a comprehensive web presence, limiting th
 ### Final Result Showcase
 
 ![Airbound Website Preview 1](https://images.prismic.io/designhawk/ZpDTxh5LeNNTxFm3_A1.png?auto=format,compress)
-*Final homepage design showcasing key features and value proposition*
 
 ![Airbound Website Preview 2](https://images.prismic.io/designhawk/ZpDTxR5LeNNTxFm2_A2.png?auto=format,compress)
-*Technology page highlighting Airbound's innovative drone solutions*
 
 ![alt text](Opendrone.5.png) 
 
@@ -111,12 +109,12 @@ Prior to this project, Airbound lacked a comprehensive web presence, limiting th
 
 1. **Brand Personality Drives Differentiation:** 
 
-![alt text](supermeme_12h55_53.png)
+![alt text](<image 4.png>)
 *Infusing Airbound's "crazy" revolutionary spirit throughout the design set them apart in a crowded market landscape.*
 
 2. **Visual Narratives Amplify Message:** 
 
-![alt text](supermeme_12h57_48.png)
+![alt text](<image 3.png>)
 *Leveraging a mix of animations and video content powerfully conveyed Airbound's technological prowess and mission.*
 
 

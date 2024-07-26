@@ -108,6 +108,8 @@ The transition from Wix to Webflow focused on creating a high-performance, visua
 - **Improved Conversion**: 50% increase in contact form submissions and project inquiries.
 - **Enhanced Brand Perception**: Positive feedback from clients on the website's alignment with Studio Carbon's design expertise.
 
+## Mockups
+
 ![alt text](<MACBOOK-MOCKUP-01 copy.png>) 
 
 ![alt text](<IPHONE-MOCKUP-036 copy.png>) 
@@ -120,17 +122,17 @@ The transition from Wix to Webflow focused on creating a high-performance, visua
 
 1. **Content is King, but Context is Queen**
 
-   ![Content and Context Meme](https://images.prismic.io/designhawk/ZqFvPx5LeNNTxeR6_supermeme_2h40_261.png?auto=format,compress)
+   ![Content and Context Meme](<image 7.png>)
    *Presenting projects in the context of their impact and process significantly enhanced user engagement.*
 
 2. **Performance Matters**
 
-   ![Performance Matters Meme](https://images.prismic.io/designhawk/ZqFvPh5LeNNTxeR4_supermeme_2h37_441.png?auto=format,compress)
+   ![Performance Matters Meme](<image 8.png>)
    *Even for design-focused websites, optimizing for speed is crucial for user experience and SEO.*
 
 3. **Flexibility in Design**
 
-   ![Flexibility in Design Meme](https://images.prismic.io/designhawk/ZqFvPx5LeNNTxeR5_supermeme_2h39_01.png?auto=format,compress)
+   ![Flexibility in Design Meme](<image 9.png>)
    *Creating a flexible system for showcasing diverse project types allowed for easier content updates and maintenance.*
 
 [^1]: The project's scope encompassed not just visual redesign, but a complete overhaul of the user experience and technical infrastructure.

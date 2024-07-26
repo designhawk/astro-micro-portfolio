@@ -150,12 +150,12 @@ Nikhil Kamath, Co-Founder of Zerodha and investor-mentor to Raghav, Co-Founder o
 
 1. **Consistency is Key**
 
-![Consistency Meme](https://images.prismic.io/designhawk/ZqFHlB5LeNNTxeDD_supermeme_23h48_37.png?auto=format,compress)
+![Consistency Meme](<image 6.png>)
 *Maintaining a cohesive brand identity across all pages enhances recognition and trust.*
 
 2. **Visual Storytelling Works**
 
-![Visual Storytelling Meme](https://images.prismic.io/designhawk/ZqFIIh5LeNNTxeDQ_supermeme_23h58_56.png?auto=format,compress)
+![Visual Storytelling Meme](<image 5.png>)
 *Engaging visuals and narratives effectively communicate the brand's mission and offerings.*
 
 [^1]: User testimonials were carefully selected to represent diverse experiences and outcomes, enhancing credibility.

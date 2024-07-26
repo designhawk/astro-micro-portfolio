@@ -101,9 +101,6 @@ The previous website had several issues:
 
 ![Lighthouse Report](image.png)
 
-![Responsive Design](https://dummyimage.com/800x400/27ae60/ffffff&text=Responsive+Design)
-*Mockup showing the website's responsive design across different devices*
-
 ## Specific Design Decisions
 
 1. **Homepage Hero Section**
@@ -130,8 +127,13 @@ The previous website had several issues:
    - Solution: Implemented a "progressive disclosure" approach, where key information is presented upfront with options to dive deeper
    - Result: Users reported feeling less overwhelmed and more likely to engage with content
 
-![Mobile Responsiveness](https://dummyimage.com/800x400/8e44ad/ffffff&text=Mobile+Responsiveness)
-*Before and after comparison of mobile responsiveness*
+## Mockups
+
+![alt text](<Slide 16_9 - 8.png>) 
+
+![alt text](<Slide 16_9 - 6.png>) 
+
+![alt text](<Slide 16_9 - 7.png>)
 
 ## Impact
 
@@ -140,13 +142,22 @@ The previous website had several issues:
 
 ## Learnings
 
-1. **User-Centric Design**: Prioritizing user needs and feedback is crucial for a successful redesign, leading to higher engagement and satisfaction.
-2. **Continuous Testing**: Regularly testing and iterating significantly enhanced the final product, ensuring it met user expectations.
-3. **Collaboration**: Effective teamwork and communication are key to overcoming challenges and achieving project goals, resulting in a cohesive and well-executed redesign.[^3]
+1. **User-Centric Design**
 
-![Final Result Showcase](https://images.prismic.io/designhawk/ZoZSjB5LeNNTwx8n_L4.png?auto=format,compress)
-*Final Result Showcase*
+   ![alt text](<supermeme_20h42_50 1.png>)
+   *Prioritizing user needs and feedback is crucial for a successful redesign, leading to higher engagement and satisfaction.*
+
+2. **Continuous Testing**
+
+   ![alt text](supermeme_20h38_50.png)
+   *Regularly testing and iterating significantly enhanced the final product, ensuring it met user expectations.*
+
+3. **Synergy Sparks Innovation**
+
+   ![alt text](<supermeme_20h34_26 1-1.png>)
+   *Seamless teamwork and open dialogue proved pivotal in navigating challenges, yielding a cohesive and impactful redesign.[^3]*
 
 [^1]: According to a 2023 report by McKinsey, 78% of startups are now considering global expansion within their first five years of operation.
 [^2]: The header animation was designed to be subtle and non-intrusive, with performance optimizations to ensure fast load times on all devices.
 [^3]: Our team used agile methodologies, with daily stand-ups and weekly sprints, to ensure efficient collaboration and rapid iteration throughout the project.
+
