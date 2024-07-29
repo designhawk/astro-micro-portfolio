@@ -1,0 +1,19 @@
+---
+interface Props {
+  src: string;
+}
+
+const { src } = Astro.props;
+---
+
+<video
+  width="100%"
+  autoplay=""
+  loop=""
+  muted="true"
+  playsinline=""
+  class="rounded-lg shadow-lg"
+>
+  <source src={src} type="video/mp4" />
+  Your browser does not support the video tag.
+</video>

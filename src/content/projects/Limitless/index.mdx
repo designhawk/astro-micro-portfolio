@@ -5,6 +5,9 @@ date: "2024-03-26"
 demoURL: "https://www.limitless.builders/"
 ---
 
+import Callout from "@/components/Callout.astro";
+import VideoPlayer from '@/components/VideoPlayer.astro';
+
 ![Limitless by Lightspeed Hero Image](https://images.prismic.io/designhawk/ZoZMmh5LeNNTwx2o_L1.png?auto=format,compress)
 *Limitless by Lightspeed website hero image*
 
@@ -18,7 +21,9 @@ demoURL: "https://www.limitless.builders/"
 
 In today's interconnected world, founders from around the globe are exploring new markets beyond their home regions. This trend of going global signifies the growing maturity and ambitions of companies aiming for significant impact.[^1]
 
-> Lightspeed is optimistic about tech companies innovating and developing new business models to efficiently address substantial challenges.
+<Callout type="info">
+Lightspeed is optimistic about tech companies innovating and developing new business models to efficiently address substantial challenges.
+</Callout>
 
 To support these founders in making a remarkable impact within their sectors, Lightspeed is launching Limitless. Limitless is designed as a hub for founders with aspirations of building global giants, creating new opportunities, and continuously innovating for their customers.
 
@@ -36,15 +41,14 @@ The previous website had several issues:
 - **Outdated Design**: The visual design failed to align with modern web standards and didn't reflect the brand's innovative ethos.
 - **Poor Navigation**: Users found it challenging to find relevant articles and resources.
 
-![alt text](<Screenshot 2023-12-19 at 2.15 1.png>)
+![All Authors Page](<Screenshot 2023-12-19 at 2.15 1.png>)
 *All Authors Page*
 
-![alt text](3.png)
-*Indiviual Authors Page*
+![Individual Authors Page](3.png)
+*Individual Authors Page*
 
-![alt text](<image 77.png>)
-*Indiviual Blog Page Content*
-
+![Individual Blog Page Content](<image 77.png>)
+*Individual Blog Page Content*
 
 ## Process
 
@@ -71,26 +75,17 @@ The previous website had several issues:
 1. **Header Animation on First Visit**: 
    Implemented a dynamic header animation triggered on a user's first visit, creating an engaging initial impression.[^2]
 
-   <video width="100%" autoplay loop muted playsinline>
-     <source src="https://designhawk.cdn.prismic.io/designhawk/ZoehqR5LeNNTwz0Z_2024-07-0512-58-25.mp4" type="video/mp4">
-     Your browser does not support the video tag.
-   </video>
+   <VideoPlayer src="https://designhawk.cdn.prismic.io/designhawk/ZoehqR5LeNNTwz0Z_2024-07-0512-58-25.mp4" />
 
 2. **Shooting Star in the Footer**: 
    Added a subtle shooting star animation in the footer to add a touch of whimsy and delight.
 
-   <video width="100%" autoplay loop muted playsinline>
-     <source src="https://designhawk.cdn.prismic.io/designhawk/Zoehpx5LeNNTwz0Y_2024-07-0512-58-42.mp4" type="video/mp4">
-     Your browser does not support the video tag.
-   </video>
+   <VideoPlayer src="https://designhawk.cdn.prismic.io/designhawk/Zoehpx5LeNNTwz0Y_2024-07-0512-58-42.mp4" />
 
 3. **Progress Bar for Keeping Track**: 
    Introduced a progress bar to help users keep track of their reading progress and enhance navigation.
 
-   <video width="100%" autoplay loop muted playsinline>
-     <source src="https://designhawk.cdn.prismic.io/designhawk/ZoehpR5LeNNTwz0X_2024-07-0512-58-59.mp4" type="video/mp4">
-     Your browser does not support the video tag.
-   </video>
+   <VideoPlayer src="https://designhawk.cdn.prismic.io/designhawk/ZoehpR5LeNNTwz0X_2024-07-0512-58-59.mp4" />
 
 ### 4. Development and Testing
 
@@ -122,18 +117,20 @@ The previous website had several issues:
 
 ## Challenges and Solutions
 
+<Callout type="warning">
 **Challenge: Balancing Information Density**
    - Problem: The old site was overwhelming users with too much information on each page
    - Solution: Implemented a "progressive disclosure" approach, where key information is presented upfront with options to dive deeper
    - Result: Users reported feeling less overwhelmed and more likely to engage with content
+</Callout>
 
 ## Mockups
 
-![alt text](<Slide 16_9 - 8.png>) 
+![Mockup 1](<Slide 16_9 - 8.png>) 
 
-![alt text](<Slide 16_9 - 6.png>) 
+![Mockup 2](<Slide 16_9 - 6.png>) 
 
-![alt text](<Slide 16_9 - 7.png>)
+![Mockup 3](<Slide 16_9 - 7.png>)
 
 ## Impact
 
@@ -144,20 +141,19 @@ The previous website had several issues:
 
 1. **User-Centric Design**
 
-   ![alt text](<supermeme_20h42_50 1.png>)
+   ![User-Centric Design Meme](<supermeme_20h42_50 1.png>)
    *Prioritizing user needs and feedback is crucial for a successful redesign, leading to higher engagement and satisfaction.*
 
 2. **Continuous Testing**
 
-   ![alt text](supermeme_20h38_50.png)
+   ![Continuous Testing Meme](supermeme_20h38_50.png)
    *Regularly testing and iterating significantly enhanced the final product, ensuring it met user expectations.*
 
 3. **Synergy Sparks Innovation**
 
-   ![alt text](<supermeme_20h34_26 1-1.png>)
+   ![Synergy Sparks Innovation Meme](<supermeme_20h34_26 1-1.png>)
    *Seamless teamwork and open dialogue proved pivotal in navigating challenges, yielding a cohesive and impactful redesign.[^3]*
 
 [^1]: According to a 2023 report by McKinsey, 78% of startups are now considering global expansion within their first five years of operation.
 [^2]: The header animation was designed to be subtle and non-intrusive, with performance optimizations to ensure fast load times on all devices.
 [^3]: Our team used agile methodologies, with daily stand-ups and weekly sprints, to ensure efficient collaboration and rapid iteration throughout the project.
-

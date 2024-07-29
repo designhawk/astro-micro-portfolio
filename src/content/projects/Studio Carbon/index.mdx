@@ -5,6 +5,9 @@ date: "2024-03-28"
 demoURL: "https://www.studiocarbon.in/"
 ---
 
+import Callout from "@/components/Callout.astro";
+import VideoPlayer from '@/components/VideoPlayer.astro';
+
 ![Studio Carbon Website Hero Image](https://cdn.prod.website-files.com/63c5269fd06f1037b48511a2/65c7aecd48b17a6f46c5f088_Frame%20427321450.webp)
 
 ## Project Brief
@@ -17,7 +20,9 @@ demoURL: "https://www.studiocarbon.in/"
 
 Studio Carbon is a multidisciplinary design studio based in India, specializing in branding, packaging, and product design. As their portfolio and client base grew, there was a need for a digital platform that could effectively showcase their creative work and attract potential clients from various industries.
 
-> Studio Carbon believes in the power of design to create meaningful experiences and lasting impressions.
+<Callout type="info">
+Studio Carbon believes in the power of design to create meaningful experiences and lasting impressions.
+</Callout>
 
 The website design project aimed to create a digital portfolio that not only showcased Studio Carbon's impressive body of work but also communicated their design philosophy and approach to potential clients.[^1]
 
@@ -45,26 +50,17 @@ The previous website had several issues:
 1. **Dynamic Portfolio Grid**: 
    Implemented a responsive grid layout that adapts to different screen sizes and showcases projects beautifully.
 
-   <video autoplay playsinline loop muted>
-     <source src="https://designhawk.cdn.prismic.io/designhawk/ZqFrWR5LeNNTxeRG_home-2-.mp4" type="video/mp4">
-     Your browser does not support the video tag.
-   </video>
+   <VideoPlayer src="https://designhawk.cdn.prismic.io/designhawk/ZqFrWR5LeNNTxeRG_home-2-.mp4" />
 
 2. **Smooth Scroll Transitions**: 
    Developed smooth scrolling transitions between sections to create a fluid browsing experience.
 
-   <video autoplay playsinline loop muted>
-     <source src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXB5LeNNTxeRH_projecthero.mp4" type="video/mp4">
-     Your browser does not support the video tag.
-   </video>
+   <VideoPlayer src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXB5LeNNTxeRH_projecthero.mp4" />
 
 3. **Interactive Case Studies**: 
    Created expandable case studies that allow users to dive deep into project details without leaving the page.
 
-   <video autoplay playsinline loop muted>
-     <source src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXh5LeNNTxeRI_easeintransitions.mp4" type="video/mp4">
-     Your browser does not support the video tag.
-   </video>
+   <VideoPlayer src="https://designhawk.cdn.prismic.io/designhawk/ZqFrXh5LeNNTxeRI_easeintransitions.mp4" />
 
 ## Development on Webflow
 
@@ -94,11 +90,13 @@ The transition from Wix to Webflow focused on creating a high-performance, visua
 
 ### Challenges and Solutions
 
+<Callout type="warning">
 **Challenge: Balancing Aesthetics and Performance**
 
 - **Problem**: The image-heavy nature of the portfolio potentially impacting site speed
 - **Solution**: Implemented lazy loading and image optimization techniques
 - **Result**: Achieved a 40% reduction in load time while maintaining high-quality visuals
+</Callout>
 
 ![Performance Optimization](https://images.prismic.io/designhawk/ZqFseR5LeNNTxeRU_Screenshot2024-07-25023407.png?auto=format,compress)
 
@@ -110,13 +108,13 @@ The transition from Wix to Webflow focused on creating a high-performance, visua
 
 ## Mockups
 
-![alt text](<MACBOOK-MOCKUP-01 copy.png>) 
+![Macbook Mockup](<MACBOOK-MOCKUP-01 copy.png>) 
 
-![alt text](<IPHONE-MOCKUP-036 copy.png>) 
+![iPhone Mockup 1](<IPHONE-MOCKUP-036 copy.png>) 
 
-![alt text](<IPHONE-MOCKUP-034 copy.png>) 
+![iPhone Mockup 2](<IPHONE-MOCKUP-034 copy.png>) 
 
-![alt text](<IPHONE-MOCKUP-044 copy.png>)
+![iPhone Mockup 3](<IPHONE-MOCKUP-044 copy.png>)
 
 ## Learnings
 
