@@ -1,0 +1,102 @@
+---
+import { Image } from 'astro:assets';
+
+interface Props {
+  src: string | ImageMetadata;
+  alt: string;
+  fallback?: string | ImageMetadata;
+  height?: number;
+  caption?: string;
+}
+
+const { 
+  src, 
+  alt, 
+  fallback,
+  height,
+  caption
+} = Astro.props;
+
+const isLocalImage = typeof src !== 'string';
+const isLocalFallback = fallback && typeof fallback !== 'string';
+---
+
+<figure class="image-component">
+  {isLocalImage ? (
+    <Image 
+      src={src} 
+      alt={alt} 
+      height={height} 
+      class="w-full h-auto cursor-pointer transition-transform hover:scale-105"
+      data-fallback={isLocalFallback ? fallback.src : fallback}
+    />
+  ) : (
+    <img
+      src={src}
+      alt={alt}
+      height={height}
+      class="w-full h-auto cursor-pointer transition-transform hover:scale-105 rounded-lg"
+      data-fallback={fallback}
+    />
+  )}
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>
+
+<script>
+  document.addEventListener('astro:page-load', () => {
+    const images = document.querySelectorAll('.image-component img');
+    
+    images.forEach((img) => {
+      if (!(img instanceof HTMLImageElement)) return;
+
+      img.addEventListener('error', () => {
+        const fallback = img.getAttribute('data-fallback');
+        if (fallback && img.src !== fallback) {
+          img.src = fallback;
+        }
+      });
+
+      img.addEventListener('click', () => {
+        const modal = document.createElement('div');
+        modal.className = 'fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50';
+        
+        const modalFigure = document.createElement('figure');
+        modalFigure.className = 'max-w-full max-h-full';
+
+        const modalImg = document.createElement('img');
+        modalImg.src = img.src;
+        modalImg.alt = img.alt;
+        modalImg.className = 'max-w-full max-h-[80vh] object-contain';
+        
+        modalFigure.appendChild(modalImg);
+
+        const caption = img.parentElement?.querySelector('figcaption');
+        if (caption instanceof HTMLElement) {
+          const modalCaption = caption.cloneNode(true) as HTMLElement;
+          modalFigure.appendChild(modalCaption);
+        }
+
+        const closeBtn = document.createElement('button');
+        closeBtn.innerHTML = '&times;';
+        closeBtn.className = 'absolute top-4 right-4 text-white text-2xl hover:text-gray-300';
+        
+        closeBtn.addEventListener('click', () => {
+          document.body.removeChild(modal);
+        });
+        
+        modal.appendChild(modalFigure);
+        modal.appendChild(closeBtn);
+        document.body.appendChild(modal);
+      });
+    });
+  });
+</script>
+
+<style>
+  .image-component {
+    width: 100%;
+  }
+  .image-component img {
+    display: block;
+  }
+</style>
