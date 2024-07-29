@@ -19,28 +19,6 @@ const projects: CollectionEntry<"projects">[] = (
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, SITE.NUM_PROJECTS_ON_HOMEPAGE);
 ---
-<script>
-  // Check if the page is in an iframe
-  if (window.self !== window.top) {
-      // If in an iframe, add event listener to document
-      document.addEventListener('click', function(e) {
-          // Type guard to ensure e.target is an Element
-          if (e.target && e.target instanceof Element) {
-              // Check if the clicked element is a link
-              if (e.target.tagName === 'A') {
-                  // Type assertion to treat e.target as HTMLAnchorElement
-                  const link = e.target as HTMLAnchorElement;
-                  // Prevent the default action
-                  e.preventDefault();
-                  // Open the link in a new tab
-                  if (link.href) {
-                      window.open(link.href, '_blank', 'noopener,noreferrer');
-                  }
-              }
-          }
-      });
-  }
-</script>
 
 <Layout title={HOME.TITLE} description={HOME.DESCRIPTION}>
   <Container>
@@ -66,9 +44,7 @@ const projects: CollectionEntry<"projects">[] = (
               technology.
             </p>
             <p>
-              Based in Ahmedabad, India, I have been working as a UI/UX Designer at <Link
-                href="https://www.studiocarbon.in/">Studio Carbon</Link
-              >.
+              Based in Ahmedabad, India, I have been working as a UI/UX Designer at Studio Carbon.
             </p>
             <p>
               <a href="https://designhawk.cdn.prismic.io/designhawk/ZqdZ_h5LeNNTxjkf_CV.pdf" download>
